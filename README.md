@@ -52,7 +52,7 @@
 * 2014.03.19 내 인생의 정리 베스트 5 `(젤리데이 @벌집)`
 * 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
-* 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)`
+* 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[youtube]](https://www.youtube.com/watch?v=iLZROvYHnec) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
 * 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)`
 * 2014.11.26 정리법 `(@지금러닝센터)`
 
