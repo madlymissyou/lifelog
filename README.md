@@ -143,13 +143,13 @@
 --
 #### Social Activities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
-  * `2016 [한국일보]` 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (출판평론가 장은수) [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
-  * `2015 [책&]` 또다시 시작되는 백북스의 이야기 (백북스 정남수) [[pdf]](baekbooks-bookand.pdf)
+  * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
+  * `2015 [책&] 또다시 시작되는 백북스의 이야기` [[pdf]](baekbooks-bookand.pdf)
 * **ETRI 독서모임**
-  * `2012 [오늘의 도서관]`도서관은 휴식이요, 힐링이다 [[pdf]](etribookers.pdf)
-  * `2012 [대덕넷]` 연구도 1등, 독서도 1등 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
+  * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
+  * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * **젤리데이** `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
-  * `2015 [시사IN]` '젤리데이'에 만나 관심사를 공유하자 [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
+  * `2015 [시사IN] '젤리데이'에 만나 관심사를 공유하자` [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
 * **협업문화연구소** `cofounder`
 * **과학예술포럼** `cofounder `
 * **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
