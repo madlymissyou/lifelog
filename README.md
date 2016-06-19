@@ -123,7 +123,7 @@
 * 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)`
 * 2016.03.08 알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다 `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
-* 2016.04.02 첫 수만 167억가지, 꾀를 부린 알파고 `(조선일보 IF D4통판)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410)
+* 2016.04.02 첫 수만 167억가지, 꾀를 부린 알파고 `(조선일보 IF D4통판)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[pdf]](alphago-chosun.pdf)
 * 2016.06.01 기술은 세상을 바꾸는데, 과학은 어디에 쓰나? `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
@@ -143,8 +143,8 @@
 --
 #### Social Activities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
-  * `2016 [한국일보]` 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (출판평론가 장은수) [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](100books-hangook.pdf)
-  * `2015 [책&]` 또다시 시작되는 백북스의 이야기 (백북스 정남수) [[pdf]](100books-bookand.pdf)
+  * `2016 [한국일보]` 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (출판평론가 장은수) [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
+  * `2015 [책&]` 또다시 시작되는 백북스의 이야기 (백북스 정남수) [[pdf]](baekbooks-bookand.pdf)
 * **ETRI 독서모임**
   * `2012 [오늘의 도서관]`도서관은 휴식이요, 힐링이다 [[pdf]](etribookers.pdf)
   * `2012 [대덕넷]` 연구도 1등, 독서도 1등 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
