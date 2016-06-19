@@ -54,7 +54,7 @@
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
 * 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
 * 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)`
-* 2014.11.26 정리법 `(@지금러닝센터)`
+* 2014.11.26 인생을 간결하고 풍요롭게 만드는 정리법 `(@지금러닝센터)`
 
 ###### 2015년
 * 2015.04.07 <통찰의 시대> `(새로운 통찰을 생각하는 사람들 @에트리)`
