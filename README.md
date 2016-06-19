@@ -40,9 +40,13 @@
 * 2012.10.18 이탈리아 르네상스 테마여행 `(대덕넷)`
 
 ###### 2013년
-* 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41900) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41318) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
+* 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)` 
+[[press1]](http://www.hellodd.com/?md=news&mt=view&pid=41318) 
+[[press2]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
+[[press3]](http://www.hellodd.com/?md=news&mt=view&pid=41900) 
 * 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
-* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
+* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` 
+[[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
 * 2014.03.19 내 인생의 정리 베스트 5 `(젤리데이 @벌집)`
@@ -60,17 +64,17 @@
 * 2015.07.07 의료영상 빅데이터 활용 `(뷰노)`
 * 2015.07.28 **백북스** <통찰의 시대> `(대전백북스 @백북스홀)`
 * 2015.09.01 과학문화 `(여성과학기술인회)`
-* 2015.10.03 과학과 예술 `(지리산프로젝트 @성심원 대강당)`
+* 2015.10.03 과학과 예술 `(지리산프로젝트 @성심원 대강당)` [[press]](http://www.hannamilbo.com/news/articleView.html?idxno=115860)
 * 2015.10.30 **서울백북스** <통찰의 시대> `(서울백북스)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-54574439)
 * 2015.11.11 일상의 과학 `(대덕넷 이공인턴직원 연수교육 @에트리)`
 * 2015.11.25 Image Informatics `(서울아산병원 의공학 심포지움 @서울아산병원)`
 * 2015.12.02 데이터 관리 `(정보설계 클래스 @한남대학교 문헌정보학과)`
-* 2015.12.04 <통찰의 시대> `(대덕넷 과학리더캠프 @국가과학기술인력개발원 오창본원)`
+* 2015.12.04 <통찰의 시대> `(대덕넷 과학리더캠프 @국가과학기술인력개발원 오창본원)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=56163)
 * 2015.12.07 <통찰의 시대> `(감사원)`
-* 2015.12.16 Lung CAD `(아산병원 호흡기내과)`
+* 2015.12.16 컴퓨터도움진단 Lung CAD `(아산병원 호흡기내과)`
 
 ###### 2016년
-* 2016.03.03 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491)
+* 2016.03.03 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57148)
 * 2016.03.08 알파고는 어떻게 바둑을 둘까 `(UNIST)`
 * 2015.03.15 알파고는 어떻게 바둑을 둘까 `(따뜻한과학마을만들기 벽돌한장 @TBC)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
 * 2016.03.17 알파고는 어떻게 바둑을 둘까 `(수리천문학회 심포지움 @한국천문연구원)`
@@ -81,7 +85,7 @@
 * 2016.04.05 알파고와 함께한 놀라운 일주일 `(벽돌한장 따뜻한과학마을E공감 @삼진정밀 대강당)`
 * 2016.04.12 알파고는 어떻게 바둑을 두는가 `(산업통상자원부 @세종청사)`
 * 2016.04.16 놀이의 천재들 `(플레이어스포럼 서울 @카우앤독)`
-* 2016.04.23 알파고와 함께한 놀라운 일주일 `(IT어린이기자단 발대식 @에트리 대강당)`
+* 2016.04.23 알파고와 함께한 놀라운 일주일 `(IT어린이기자단 발대식 @에트리 대강당)` [[press]](http://www.etnews.com/20160424000070)
 * 2016.04.26 **백북스** <인공지능과 딥러닝> `(대전백북스 @백북스홀)`
 * 2016.05.11 알파고는 어떻게 바둑을 두는가 `(KEIT)`
 * 2016.05.17 인공지능과 기술혁신이 가져올 사회 변화 `(충북사회혁신컨퍼런스)`
@@ -101,7 +105,7 @@
 #### Articles
 
 ###### 중도일보 <백북스와 함께 읽는 책>
-* 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025)
+* 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
 * 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
 * 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
 * 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)`
