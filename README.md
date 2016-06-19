@@ -1,9 +1,10 @@
 ####이정원
-###### Jeongwon Lee
-###### mobile: 010-3432-6217
-###### office: 042-860-6045
-###### email: madlymissyou@gmail.com
-###### 과학기술인등록번호: 1014 2671
+Jeongwon Lee
+
+Mobile: 010-3432-6217
+Office: 042-860-6045
+Email: madlymissyou@gmail.com
+과학기술인등록번호: 1014 2671
 
 ---
 ##### Job
