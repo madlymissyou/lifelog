@@ -1,7 +1,7 @@
 #### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
 * 한국전자통신연구원 SW.콘텐츠연구소 바이오의료IT연구부 의료영상연구실 선임연구원
-* KAIST 바이오및뇌공학과 [신경동역학연구실[(http://raphe.kaist.ac.kr/) 박사과정
+* KAIST 바이오및뇌공학과 [신경동역학연구실](http://raphe.kaist.ac.kr/) 박사과정
 * Office: 042-860-6045
 * Email: madlymissyou@gmail.com
 * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실
