@@ -95,13 +95,6 @@
 * 2016.07.02 알파고와 함께한 놀라운 일주일 `(KSSiS 대한가상수술학회 딥러닝 세션)`
 
 --
-#### Contests
-* 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
-* 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000`
-* 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
-* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077)
-
---
 #### Articles
 
 ###### 중도일보 <백북스와 함께 읽는 책>
@@ -134,6 +127,13 @@
 * 2016.06.01 기술은 세상을 바꾸는데, 과학은 어디에 쓰나? `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
+#### Contests
+* 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
+* 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
+* 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
+* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077)
+
+--
 #### Committees
 * 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회 위원
 * 2016 ETRI '새로운 ETRI 만들기' TF 열린분과 간사
@@ -143,9 +143,11 @@
 --
 #### Social Activities
 * 백북스 [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
-  * 2016 `[한국일보]` 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (출판평론가 장은수) [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](100books-hangook.pdf)
-  * 2015 `[책&]` 또다시 시작되는 백북스의 이야기 (백북스 정남수) [[pdf]](100books-bookand.pdf)
+  * `2016 [한국일보]` 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (출판평론가 장은수) [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](100books-hangook.pdf)
+  * `2015 [책&]` 또다시 시작되는 백북스의 이야기 (백북스 정남수) [[pdf]](100books-bookand.pdf)
 * ETRI 독서모임
+  * `2012 [오늘의 도서관]`도서관은 휴식이요, 힐링이다 [[pdf]](etribookers.pdf)
+  * `2012 [대덕넷]` 연구도 1등, 독서도 1등 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
 * 협업문화연구소 `cofounder`
 * 과학예술포럼 `cofounder `
