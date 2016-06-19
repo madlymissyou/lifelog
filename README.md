@@ -107,23 +107,23 @@
 * 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)`
 
 ###### 대덕넷 <이정원의 문화 산책>
-* 2013.05.01 쇼팽의 빗방울 전주곡
-* 2013.07.02 매력적인 섬 시칠리아
-* 2013.09.03 독특한 공간 프릭 컬렉션
-* 2013.11.05 바람에 춤추는 모네의 양귀비 꽃
-* 2014.01.07 베로나 오페라축제
-* 2014.03.11 센디에이고 재즈바 탐방
-* 2014.05.07 파비오 비온디로 클래식 입문하기
-* 2014.07.08 독일과 브라질의 리턴매치
-* 2014.09.02 요절한 천재 작곡가
-* 2014.11.04 18년 만에 듣는 미적분 강의
+* 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
+* 2013.07.02 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
+* 2013.09.03 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
+* 2013.11.05 바람에 춤추는 모네의 양귀비 꽃 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=44374)
+* 2014.01.07 베로나 오페라축제 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47131)
+* 2014.03.11 센디에이고 재즈바 탐방 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47966)
+* 2014.05.07 파비오 비온디로 클래식 입문하기 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=48722)
+* 2014.07.08 독일과 브라질의 리턴매치 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=49412)
+* 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
+* 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
 
 ###### 전자통신동향분석, 프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 조선일보, 아태이론물리학회
 * 2010.08.01 컴퓨터단층촬영 기술 동향 `(에트리 전자통신동향분석 25권 4호)`
 * 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)`
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)`
-* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf article]](e-book-20150309-happinenss.pdf) [[pdf volume]](e-book-20150309.pdf)
+* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[volume]](e-book-20150309.pdf)
 * 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)`
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)`
 * 2016.03.08 알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다 `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
