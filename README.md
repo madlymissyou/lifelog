@@ -1,7 +1,6 @@
 #### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
 * 한국전자통신연구원 선임연구원
-* Mobile: 010-3432-6217
 * Office: 042-860-6045
 * Email: madlymissyou@gmail.com
 * 과학기술인등록번호: 1014 2671
