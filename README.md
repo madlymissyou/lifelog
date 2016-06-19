@@ -38,9 +38,12 @@
 
 --
 #### Radio/Podcast
-* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[mp3]](https://soundcloud.com/madlymissyou/20140403-1)
-* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[mp3]](https://soundcloud.com/madlymissyou/kbs20140501)
-* 2014.05.22 KBS대전라디오 행복의 가격 [[mp3]](https://soundcloud.com/madlymissyou/kbs20140522)
+* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
+* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
+* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
+* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
+* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
+* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
 * 2016.05.18 대덕밸리라디오 1주년 특집 50회차 [[video]](https://www.youtube.com/watch?v=wL1xEIooySo)
 * 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 
