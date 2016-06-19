@@ -1,7 +1,7 @@
 #### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
 * 한국전자통신연구원 SW.콘텐츠연구소 바이오의료IT연구부 의료영상연구실 선임연구원
-* KAIST 바이오및뇌공학과 [신경동역학연구실](http://raphe.kaist.ac.kr/) 박사과정
+* KAIST [바이오및뇌공학과](http://bioeng.kaist.ac.kr/) [신경동역학연구실(Brain Dynamics Lab)](http://raphe.kaist.ac.kr/) 박사과정
 * Office: 042-860-6045
 * Email: madlymissyou@gmail.com
 * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실
@@ -28,7 +28,7 @@
 * 카이스트 바이오및뇌공학과 박사 수료
 * 서울대학교 의용생체협동과정 의공학교실 석사 졸업
 * 서울대학교 전기공학부 졸업
-* 부산과학고등학교 (한국과학영재학교) 졸업
+* 부산과학고등학교(한국과학영재학교) 졸업
 
 --
 #### Invited Talks
@@ -120,14 +120,14 @@
 
 ###### 전자통신동향분석, 프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 조선일보, 아태이론물리학회
 * 2010.08.01 컴퓨터단층촬영 기술 동향 `(에트리 전자통신동향분석 25권 4호)`
-* 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)`
+* 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [html](http://www.pressian.com/news/article.html?no=69238) [text](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)`
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)`
 * 2015.02.11 행복의 기원 `(ETRI 좋은e웃)`
 * 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)`
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)`
 * 2016.03.08 알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다 `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
-* 2016.04.02 첫 수만 167억가지, 꾀를 부린 알파고 `(조선일보 IF D4통판)`
+* 2016.04.02 첫 수만 167억가지, 꾀를 부린 알파고 `(조선일보 IF D4통판)` [html](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410)
 * 2016.06.01 기술은 세상을 바꾸는데, 과학은 어디에 쓰나? `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
@@ -139,11 +139,9 @@
 
 --
 #### Social Activities
-* 백북스 총무
+* 백북스 [homepage](www.100books.kr) [facebook](https://www.facebook.com/groups/100booksclub/)
 * ETRI 독서모임
-* 젤리데이 `cofounder`
+* 젤리데이 `cofounder` [facebook](https://www.facebook.com/groups/1383789638509537/)
 * 협업문화연구소 `cofounder`
-* 대덕잡구
-* 벽돌한장
 * 과학예술포럼 `cofounder `
-* 빅히스토리 프로젝트 대전 `cofounder`
+* 빅히스토리 프로젝트 대전 `cofounder` [facebook](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
