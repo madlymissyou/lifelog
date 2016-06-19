@@ -6,11 +6,12 @@
 * Email: madlymissyou@gmail.com
 * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실
 * 과학기술인등록번호: 1014 2671
-* LinkedIn: [www.linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)
-* SlideShare: [www.slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
-* ResearchGate: [www.researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)
-* Blog: [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)
+
 * Facebook: [www.facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)
+* Blog: [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)
+* SlideShare: [www.slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
+* LinkedIn: [www.linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)
+* ResearchGate: [www.researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)
 * Twitter: [twitter.com/madlymissyo](https://twitter.com/madlymissyou)
  
 ---
