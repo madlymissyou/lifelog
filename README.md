@@ -123,7 +123,7 @@
 * 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)`
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)`
-* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](http://www.slideshare.net/madlymissyou/e-45876583)
+* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf article]](e-book-20150309-happinenss.pdf) [[pdf volume]](e-book-20150309.pdf)
 * 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)`
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)`
 * 2016.03.08 알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다 `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
