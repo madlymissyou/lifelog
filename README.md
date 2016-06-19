@@ -131,7 +131,7 @@
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
-* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077)
+* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 --
 #### Committees
