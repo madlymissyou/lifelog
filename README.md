@@ -143,6 +143,7 @@
 --
 #### Social Activities
 * 백북스 [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
+  * 2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 [html]
 * ETRI 독서모임
 * 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
 * 협업문화연구소 `cofounder`
