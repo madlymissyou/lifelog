@@ -149,6 +149,7 @@
   * `2012 [오늘의 도서관]`도서관은 휴식이요, 힐링이다 [[pdf]](etribookers.pdf)
   * `2012 [대덕넷]` 연구도 1등, 독서도 1등 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
+  * `2015 [시사IN]` '젤리데이'에 만나 관심사를 공유하자 [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
 * 협업문화연구소 `cofounder`
 * 과학예술포럼 `cofounder `
 * 빅히스토리 프로젝트 대전 `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
