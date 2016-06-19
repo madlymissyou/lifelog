@@ -49,7 +49,7 @@
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
-* 2014.03.19 내 인생의 베스트 5: 인생을 간결하고도 풍요롭게 만드는 기록과 정리 `(젤리데이 @벌집)`
+* 2014.03.19 '변태적' 정리에 대하여" 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
 * 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
 * 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
