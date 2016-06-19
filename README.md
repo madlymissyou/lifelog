@@ -45,14 +45,14 @@
 [[press2]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
 [[press3]](http://www.hellodd.com/?md=news&mt=view&pid=41900) 
 * 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
-* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` 
+* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc)
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
-* 2014.03.19 내 인생의 정리 베스트 5 `(젤리데이 @벌집)`
+* 2014.03.19 내 인생의 베스트 5: 인생을 간결하고도 풍요롭게 만드는 기록과 정리 `(젤리데이 @벌집)`
 * 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
-* 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[youtube]](https://www.youtube.com/watch?v=iLZROvYHnec) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
+* 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
 * 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)`
 * 2014.11.26 정리법 `(@지금러닝센터)`
 
@@ -153,3 +153,6 @@
 * **협업문화연구소** `cofounder`
 * **과학예술포럼** `cofounder `
 * **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+
+--
+#### Projects
