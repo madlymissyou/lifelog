@@ -5,8 +5,7 @@
 * Office: 042-860-6045
 * Email: madlymissyou@gmail.com
 * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실
-* 과학기술인등록번호: 1014 2671
-
+* 과학기술인등록번호: 1014 267
 * Facebook: [www.facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)
 * Blog: [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)
 * SlideShare: [www.slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
