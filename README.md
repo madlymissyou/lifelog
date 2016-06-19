@@ -11,7 +11,7 @@
 * SlideShare: [www.slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
 * LinkedIn: [www.linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)
 * ResearchGate: [www.researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)
-* Twitter: [twitter.com/madlymissyo](https://twitter.com/madlymissyou)
+* Twitter: [twitter.com/madlymissyou](https://twitter.com/madlymissyou)
  
 ---
 #### Profile
