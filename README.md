@@ -78,7 +78,8 @@
 
 ###### 2015년
 * 2015.04.07 <통찰의 시대> `(새로운 통찰을 생각하는 사람들 @에트리)`
-* 2015.05.16 **플레이어스포럼** 이 아빠가 노는 법 `(플레이어스포럼 대전 @앨리먼트랩)` [[photo]](https://www.facebook.com/permalink.php?story_fbid=1476930332632114&id=1401591210166027) [[video]](https://www.youtube.com/watch?v=4QEgCvVpIqk)
+* 2015.05.16 **플레이어스포럼** 이 아빠가 노는 법 `(플레이어스포럼 대전 @앨리먼트랩)` [[video]](https://www.youtube.com/watch?v=fxgSU7dOoiQ) [[press]](http://playwithus.kr/home/sketch/658) 
+[[photo]](https://www.facebook.com/permalink.php?story_fbid=1476930332632114&id=1401591210166027) [[video]](https://www.youtube.com/watch?v=4QEgCvVpIqk)
 * 2015.05.20 컴퓨터도움진단 `(뷰노)`
 * 2015.06.12 뉴로인포매틱스 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2015.07.07 의료영상 빅데이터 활용 `(뷰노)`
