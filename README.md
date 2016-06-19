@@ -129,3 +129,14 @@
 * 2016 새로운 ETRI 만들기 TF 열린분과 간사
 * 2016 ETRI Brand Identity TF
 * 2016 ETRI 공유&협업 활성화 TF
+
+--
+#### Social Activity
+* 백북스 총무
+* ETRI 독서모임
+* 젤리데이 cofounder
+* 협업문화연구소 cofounder
+* 대덕잡구
+* 벽돌한장
+* 과학예술포럼 cofounder 
+* 빅히스토리 프로젝트 대전 cofounder
