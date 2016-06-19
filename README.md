@@ -40,9 +40,9 @@
 * 2012.10.18 이탈리아 르네상스 테마여행 `(대덕넷)`
 
 ###### 2013년
-* 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)`
+* 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41900) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41318) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
 * 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
-* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)`
+* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
 * 2014.03.19 내 인생의 정리 베스트 5 `(젤리데이 @벌집)`
@@ -95,7 +95,7 @@
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000`
 * 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
-* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: 메디치가든 팀 대상 `$5,000`
+* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077)
 
 --
 #### Articles
