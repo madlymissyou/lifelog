@@ -45,7 +45,7 @@
 [[press2]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
 [[press3]](http://www.hellodd.com/?md=news&mt=view&pid=41900) 
 * 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
-* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc)
+* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-6th/)
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
