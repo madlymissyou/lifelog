@@ -38,7 +38,37 @@
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
 --
-#### Interviews
+#### Articles
+
+**중도일보 <백북스와 함께 읽는 책>**
+* 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
+* 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
+* 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
+* 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
+* 2012.06.13 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201206130038)
+
+**대덕넷 <이정원의 문화 산책>**
+* 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
+* 2013.07.02 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
+* 2013.09.03 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
+* 2013.11.05 바람에 춤추는 모네의 양귀비 꽃 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=44374)
+* 2014.01.07 베로나 오페라축제 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47131)
+* 2014.03.11 센디에이고 재즈바 탐방 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47966)
+* 2014.05.07 파비오 비온디로 클래식 입문하기 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=48722)
+* 2014.07.08 독일과 브라질의 리턴매치 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=49412)
+* 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
+* 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
+
+**프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 조선일보, 아태이론물리학회**
+* 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
+* 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
+* 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
+* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[vol]](e-book-20150309.pdf) [[slideshare]](http://www.slideshare.net/madlymissyou/e-45876583)
+* 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
+* 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
+* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
+* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
+* 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
 #### Invited Talks
@@ -107,39 +137,6 @@
 * 2016.06.29 알파고와 함께한 놀라운 일주일 `(APCTP 소백산천문대)`
 * 2016.06.30 알파고와 함께한 놀라운 일주일 `(연세대학교 동문회)`
 * 2016.07.02 알파고와 함께한 놀라운 일주일 `(KSSiS 대한가상수술학회 딥러닝 세션)`
-
---
-#### Articles
-
-**중도일보 <백북스와 함께 읽는 책>**
-* 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
-* 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
-* 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
-* 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
-* 2012.06.13 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201206130038)
-
-**대덕넷 <이정원의 문화 산책>**
-* 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
-* 2013.07.02 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
-* 2013.09.03 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
-* 2013.11.05 바람에 춤추는 모네의 양귀비 꽃 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=44374)
-* 2014.01.07 베로나 오페라축제 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47131)
-* 2014.03.11 센디에이고 재즈바 탐방 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47966)
-* 2014.05.07 파비오 비온디로 클래식 입문하기 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=48722)
-* 2014.07.08 독일과 브라질의 리턴매치 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=49412)
-* 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
-* 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
-
-**프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 조선일보, 아태이론물리학회**
-* 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
-* 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
-* 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
-* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[vol]](e-book-20150309.pdf) [[slideshare]](http://www.slideshare.net/madlymissyou/e-45876583)
-* 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
-* 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
-* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
-* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
-* 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
 #### Radio/Podcast
