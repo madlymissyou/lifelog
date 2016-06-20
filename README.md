@@ -180,5 +180,6 @@
 --
 #### Projects
 * 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
-* **메디치가든 프로젝트**
-* **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+* 2012 마법의 정리 프로젝트
+* 2013 **메디치가든 프로젝트**
+* 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
