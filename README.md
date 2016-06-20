@@ -122,7 +122,7 @@
 --
 #### Articles
 
-   중도일보 <백북스와 함께 읽는 책>
+    **중도일보 <백북스와 함께 읽는 책>**
    
 * 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
 * 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
