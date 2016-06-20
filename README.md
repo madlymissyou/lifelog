@@ -160,10 +160,10 @@
 
 --
 #### Committees
-* 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회 위원
+* 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회
 * 2016 ETRI '새로운 ETRI 만들기' TF 열린분과 간사
-* 2016 ETRI 'Brand Identity' TF 위원
-* 2016 ETRI '공유&협업 활성화' TF 간사
+* 2016 ETRI 'Brand Identity' TF
+* 2016 ETRI '공유&협업 활성화' TF
 
 --
 #### Social Activities
