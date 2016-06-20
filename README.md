@@ -175,6 +175,7 @@
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
   * `2015 [시사IN] '젤리데이'에 만나 관심사를 공유하자` [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
+  * `2013 젤리데이 총정리` [[pdf]](jellyday-5th-2013.pdf)
 * 협업문화연구소 `cofounder`
 * 과학예술포럼 `cofounder `
 
