@@ -6,11 +6,12 @@
 * Email: madlymissyou@gmail.com
 * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실
 * 과학기술인등록번호: 1014 267
-* `Facebook` [www.facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)
+* `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)
+* `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)
 * `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)
-* `SlideShare` [www.slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
-* `LinkedIn` [www.linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)
-* `ResearchGate` [www.researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)
+* `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)
+* `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)
+* `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)
 * `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)
  
 ---
@@ -60,6 +61,7 @@
 * 2012.10.18 이탈리아 르네상스 테마여행 `(대덕넷)`
 
 ###### 2013년
+* 2013.01.18 이탈리아 르네상스 테마여행 `(ETRI독서모임)`
 * 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)` 
 [[press1]](http://www.hellodd.com/?md=news&mt=view&pid=41318) 
 [[press2]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
@@ -74,7 +76,7 @@
 * 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
 * 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
-* 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)`
+* 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)` [[press]](http://www.djenews.co.kr/news/articleView.html?idxno=16938)
 * 2014.11.26 인생을 간결하고 풍요롭게 만드는 정리법 `(@지금러닝센터)`
 
 ###### 2015년
@@ -169,14 +171,16 @@
   * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
   * `2015 [책&] 또다시 시작되는 백북스의 이야기` [[pdf]](baekbooks-bookand.pdf)
   * `2008 [KBS대전] 동호회 탐방` [[video]](baekbooks-kbs-news9_20081116.asf)
-* **ETRI 독서모임**
+* ETRI 독서모임
   * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
-* **젤리데이** `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
+* 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
   * `2015 [시사IN] '젤리데이'에 만나 관심사를 공유하자` [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
-* **협업문화연구소** `cofounder`
-* **과학예술포럼** `cofounder `
-* **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+* 협업문화연구소 `cofounder`
+* 과학예술포럼 `cofounder `
 
 --
 #### Projects
+* 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
+* **메디치가든 프로젝트**
+* **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
