@@ -38,17 +38,6 @@
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
 --
-#### Radio/Podcast
-* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
-* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
-* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
-* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
-* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
-* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
-* 2016.05.18 대덕밸리라디오 1주년 특집 50회차 [[video]](https://www.youtube.com/watch?v=wL1xEIooySo)
-* 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
-
---
 #### Interviews
 
 --
@@ -71,7 +60,7 @@
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
 
 ###### 2014년
-* 2014.03.19 '변태적' 정리에 대하여" 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
+* 2014.03.19 '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
 [[photos]](https://www.facebook.com/jayasalon/posts/411061075697728?pnref=story)
 * 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
@@ -152,6 +141,17 @@
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
+#### Radio/Podcast
+* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
+* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
+* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
+* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
+* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
+* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
+* 2016.05.18 대덕밸리라디오 1주년 특집 50회차 [[video]](https://www.youtube.com/watch?v=wL1xEIooySo)
+* 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
+
+--
 #### Contests
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
@@ -170,7 +170,6 @@
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
   * `2015 [책&] 또다시 시작되는 백북스의 이야기` [[pdf]](baekbooks-bookand.pdf)
-  * `2008 [KBS대전] 동호회 탐방` [[video]](baekbooks-kbs-news9_20081116.asf)
 * ETRI 독서모임
   * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
