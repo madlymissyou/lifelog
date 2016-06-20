@@ -116,6 +116,7 @@
 * 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
 * 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
 * 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
+* 2012.06.13 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201206130038)
 
 **대덕넷 <이정원의 문화 산책>**
 * 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
