@@ -3,10 +3,9 @@
 * 한국전자통신연구원 SW.콘텐츠연구소 바이오의료IT연구부 의료영상연구실 선임연구원
 * KAIST [바이오및뇌공학과](http://bioeng.kaist.ac.kr/) [신경동역학연구실(Brain Dynamics Lab)](http://raphe.kaist.ac.kr/) 박사과정
 * 과학기술인등록번호: 1014 267
-* Contact
-  * Office: 042-860-6045
-  * Email: madlymissyou@gmail.com
-  * Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실  
+* Office: 042-860-6045
+* Email: madlymissyou@gmail.com
+* Location: 34129 대전 유성구 가정로 218 한국전자통신연구원 의료영상연구실  
 
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
   `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
