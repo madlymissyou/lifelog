@@ -177,8 +177,7 @@
   * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (장은수)` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
   * `2015 [책&] 또다시 시작되는 백북스의 이야기 (정남수)` [[pdf]](baekbooks-bookand.pdf)
   * `2008 [DTV] 100권독서클럽으로 오라 (이정원)` [[pdf]](https://www.dropbox.com/s/f79ukhrjjcb156z/%5B2008.09.30%5D%20DTV%209%EC%9B%94%20%2876-77%29%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
-  * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0) 
-
+  * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
 * ETRI독서모임
   * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
