@@ -37,6 +37,8 @@
 #### TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
+#### Newspaper
+* 2012.09.06 대덕의 젊은 과학자 `대전일보 12면` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 --
 #### Articles
 
