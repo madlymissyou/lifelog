@@ -41,6 +41,7 @@
 #### Press
 * 2012.09.06 대덕의 젊은 과학자 `대전일보 12면` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
+* 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
 
 --
 #### Articles
@@ -93,6 +94,7 @@
 * 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
 * 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-6th/)
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
+* 2012.11.01 연구도 1등, 독서도 1등 `대덕넷` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 
 ###### 2014년
 * 2014.03.19 '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
@@ -172,8 +174,11 @@
 --
 #### Social Activities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
-  * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
-  * `2015 [책&] 또다시 시작되는 백북스의 이야기` [[pdf]](baekbooks-bookand.pdf)
+  * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (장은수)` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
+  * `2015 [책&] 또다시 시작되는 백북스의 이야기 (정남수)` [[pdf]](baekbooks-bookand.pdf)
+  * `2008 [DTV] 100권독서클럽으로 오라 (이정원)` [[pdf]](https://www.dropbox.com/s/f79ukhrjjcb156z/%5B2008.09.30%5D%20DTV%209%EC%9B%94%20%2876-77%29%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
+  * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0) 
+
 * ETRI독서모임
   * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
