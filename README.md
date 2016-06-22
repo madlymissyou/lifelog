@@ -158,10 +158,11 @@
 
 --
 #### Committees
-* 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회 ()
+* 2013 EITR 융합기술영구부문 영보드 위원장
+* 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회
 * 2016 ETRI '새로운 ETRI 만들기' TF 열린분과 간사
 * 2016 ETRI 'Brand Identity' TF
-* 2016 ETRI '공유&협업 활성화' TF
+* 2016 ETRI '정보공유&협업 활성화' TF
 
 --
 #### Social Activities
@@ -182,7 +183,8 @@
 * 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
 * 2012 마법의 정리 프로젝트
 * 2013 **메디치가든 프로젝트**
+* 2016 **두터운 현재 (Layered Now)**
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
-  * [[빅히스토리 1교시] 오리엔테이션+멤버소개](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C)
-  * [[빅히스토리 2교시] 우주가 팽창한다는 것을 어떻게 알았을까?](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C)
+  * [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
+  * [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
   
