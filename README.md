@@ -183,3 +183,6 @@
 * 2012 마법의 정리 프로젝트
 * 2013 **메디치가든 프로젝트**
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+  * [[빅히스토리 1교시] 오리엔테이션+멤버소개](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C)
+  * [[빅히스토리 2교시] 우주가 팽창한다는 것을 어떻게 알았을까?](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C)
+  
