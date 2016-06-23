@@ -191,8 +191,8 @@
   * `2012 [오늘의 도서관]도서관은 휴식이요, 힐링이다` [[pdf]](etribookers.pdf)
   * `2012 [대덕넷] 연구도 1등, 독서도 1등` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 젤리데이 `cofounder` [[facebook]](https://www.facebook.com/groups/1383789638509537/)
-  * `2015 [시사IN] '젤리데이'에 만나 관심사를 공유하자` [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
   * `2013 젤리데이 총정리` [[pdf]](https://www.dropbox.com/s/r2mf6ef3ez91khm/5%EC%B0%A8%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%28%202013%EB%85%84%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%29.pdf?dl=0)
+  * `2015 [시사IN] '젤리데이'에 만나 관심사를 공유하자` [[html]](http://www.sisainlive.com/news/articleView.html?idxno=22974)
 * 협업문화연구소 `cofounder` [[facebook]](https://www.facebook.com/CoworkingLAB/)
 * 과학예술포럼 `cofounder ` [[facebook]](https://www.facebook.com/SnA.forum/)
 * 벽돌한장
@@ -202,7 +202,7 @@
 
 --
 #### Social activities
-* 2012 십일딸라($11) 축구동호회 창립
+* 2012 십일딸라($11) 축구동호회 `cofounder`
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
