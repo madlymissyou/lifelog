@@ -27,10 +27,10 @@
 --
 #### Education
 * 카이스트 바이오및뇌공학과 박사 수료 
-  * 신경동역학연구실(Brain Dynamics Lab): 지도교수 정재승 [[homepage]](http://raphe.kaist.ac.kr/index.htm)
+  * `신경동역학연구실(Brain Dynamics Lab): 지도교수 정재승` [[homepage]](http://raphe.kaist.ac.kr/index.htm)
 * 서울대학교 의용생체협동과정 의공학교실 석사 졸업 
-  * 생체신호및정보연구실: 지도교수 박광석 [[homepage]](http://abrc.snu.ac.kr/)
-  * 의생명영상컴퓨팅연구실: 지도교수 김종효 [[homepage]](http://bicl.snu.ac.kr/)
+  * `생체신호및정보연구실: 지도교수 박광석` [[homepage]](http://abrc.snu.ac.kr/)
+  * `의생명영상컴퓨팅연구실: 지도교수 김종효` [[homepage]](http://bicl.snu.ac.kr/)
 * 서울대학교 전기공학부 졸업
 * 부산과학고등학교(한국과학영재학교) 졸업
 * 대천중학교 졸업
