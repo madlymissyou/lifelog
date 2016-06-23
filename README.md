@@ -175,7 +175,7 @@
 * 2016 ETRI '정보공유&협업 활성화' TF
 
 --
-#### Social Activities
+#### Social activities & projects
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
   * `2008 [동아일보] 시민과학자의 뜨거운 열기` [[jpg]](https://www.dropbox.com/s/25f7bj1gucvplq8/%5B2008.06.03%5D%20%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%20%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EA%B8%B0%EC%82%AC%20-%20%EC%A7%80%EB%AA%85%ED%9B%88.jpg?dl=0)
@@ -195,14 +195,12 @@
   * `2013 젤리데이 총정리` [[pdf]](https://www.dropbox.com/s/r2mf6ef3ez91khm/5%EC%B0%A8%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%28%202013%EB%85%84%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%29.pdf?dl=0)
 * 협업문화연구소 `cofounder` [[facebook]](https://www.facebook.com/CoworkingLAB/)
 * 과학예술포럼 `cofounder ` [[facebook]](https://www.facebook.com/SnA.forum/)
-
---
-#### Projects
-* 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
-* 2012 마법의 정리 프로젝트
-* 2013 **메디치가든 프로젝트**
-* 2016 **두터운 현재 (Layered Now)**
-* 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+* **두터운 현재 (Layered Now)**
+* **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
   * [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
   * [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
-  
+
+--
+#### Personal projects
+* 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
+* 마법의 정리 프로젝트
