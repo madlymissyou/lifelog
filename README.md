@@ -195,6 +195,9 @@
   * `2013 젤리데이 총정리` [[pdf]](https://www.dropbox.com/s/r2mf6ef3ez91khm/5%EC%B0%A8%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%20%28%202013%EB%85%84%20%EC%A0%A4%EB%A6%AC%EB%8D%B0%EC%9D%B4%29.pdf?dl=0)
 * 협업문화연구소 `cofounder` [[facebook]](https://www.facebook.com/CoworkingLAB/)
 * 과학예술포럼 `cofounder ` [[facebook]](https://www.facebook.com/SnA.forum/)
+* 벽돌한장
+  * `2016 "알파고와 함께한 드라마틱한 일주일"…과학마을이야기 성황` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
+  * `2016 [CMB뉴스] 따뜻한 과학마을 만드는 '벽돌한장'` [[youtube]](https://www.youtube.com/watch?v=5fFwxwbiDdA&feature=youtu.be)
 * **두터운 현재 (Layered Now)**
 
 --
