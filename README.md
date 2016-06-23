@@ -179,7 +179,12 @@
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
   * `2008 [동아일보] 시민과학자의 뜨거운 열기` [[jpg]](https://www.dropbox.com/s/25f7bj1gucvplq8/%5B2008.06.03%5D%20%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%20%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EA%B8%B0%EC%82%AC%20-%20%EC%A7%80%EB%AA%85%ED%9B%88.jpg?dl=0)
+  * `2008 [충청투데이] 문사철의 기본기 익히기` [[jpg]](https://www.dropbox.com/s/ns9qwffao73at69/%5B2008.08.01%5D%20%EC%B6%A9%EC%B2%AD%ED%88%AC%EB%8D%B0%EC%9D%B4%20-%20%EC%9D%B4%EC%9D%BC%EC%9A%B0%20%EA%B5%90%EC%88%98%EB%8B%98%20%28%ED%98%95%EA%B4%91%ED%8E%9C%29.jpg?dl=0)
   * `2008 [DTV] 100권독서클럽으로 오라 (이정원)` [[pdf]](https://www.dropbox.com/s/f79ukhrjjcb156z/%5B2008.09.30%5D%20DTV%209%EC%9B%94%20%2876-77%29%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
+  * `2009 [중앙일보] 9시간 마룻바닥 학습도 즐거운 이유는?` [[jpg]](https://www.dropbox.com/s/20x9rjlzlptmvo1/%5B2009.02.04%5D%209%EC%8B%9C%EA%B0%84%20%27%EB%A7%88%EB%A3%BB%EB%B0%94%EB%8B%A5%20%ED%95%99%EC%8A%B5%27%EB%8F%84%20%EC%A6%90%EA%B1%B0%EC%9A%B4%20%EC%9D%B4%EC%9C%A0%20-%20%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4.jpg?dl=0)
+  * `2009 [한라일보] 어려운 책 골라 읽는 사람들` [[jpg]](https://www.dropbox.com/s/xyliqpe9jyv0j7a/%5B2009.02.06%5D%20%EC%96%B4%EB%A0%A4%EC%9A%B4%20%EC%B1%85%20%EA%B3%A8%EB%9D%BC%20%EC%9D%BD%EB%8A%94%20%EC%82%AC%EB%9E%8C%EB%93%A4%20-%20%ED%95%9C%EB%9D%BC%EC%9D%BC%EB%B3%B4%20%28%ED%98%95%EA%B4%91%ED%8E%9C%29.jpg?dl=0)
+  * `2010 [동아일보] 백북스의 독서 빅뱅` [[jpg]](https://www.dropbox.com/s/byemhlrrw5kopdr/%5B2010.03.24%5D%20%EB%B0%B1%EB%B6%81%EC%8A%A4%EC%9D%98%20%EB%8F%85%EC%84%9C%20%EB%B9%85%EB%B1%85%20%28%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%29.jpg?dl=0)
+  * `2012 [대전일보] 맨발의 황톳길 시로 완성시킬 것` [[jpg]](https://www.dropbox.com/s/4whrxhngnwr7div/%5B2012.07.23%5D%20%EB%B0%B1%EB%B6%81%EC%8A%A4%20%ED%99%A9%ED%86%B3%EA%B8%B8%20-%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2020%EB%A9%B4.jpg?dl=0)
   * `2015 [책&] 또다시 시작되는 백북스의 이야기 (정남수)` [[pdf]](baekbooks-bookand.pdf)
   * `2016 [한국일보] 교수와 제자들 강의실 모임, 학교 담장 넘어 세상을 품다 (장은수)` [[html]](http://www.hankookilbo.com/v/e1242b92f07441f7a9b1f9dd089fa94a) [[pdf]](baekbooks-hangook.pdf)
 * ETRI독서모임
