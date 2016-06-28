@@ -133,7 +133,7 @@
 * 2015.12.16 컴퓨터도움진단 Lung CAD `(아산병원 호흡기내과)`
 
 ###### 2016년
-* 2016.03.03 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57148)
+* 2016.03.03 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57148) [[article]](http://joongdo.co.kr/jsp/article/article_view.jsp?pq=201603060215)
 * 2016.03.08 알파고는 어떻게 바둑을 둘까 `(UNIST)`
 * 2015.03.15 알파고는 어떻게 바둑을 둘까 `(따뜻한과학마을만들기 벽돌한장 @TBC)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
 * 2016.03.17 알파고는 어떻게 바둑을 둘까 `(수리천문학회 심포지움 @한국천문연구원)`
