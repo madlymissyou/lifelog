@@ -76,7 +76,7 @@
 * 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
 * 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
 
-**프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 조선일보, 아태이론물리학회**
+**프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회**
 * 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
