@@ -46,6 +46,14 @@
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
 * 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
 
+**알파고**
+* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
+* 2016.03.09 [이세돌 vs. 알파고 1국] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
+* 2016.03.10 [이세돌 vs. 알파고 2국] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
+* 2016.03.12 [이세돌 vs. 알파고 3국] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
+* 2016.03.13 [이세돌 vs. 알파고 4국] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
+* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
+
 --
 #### Articles
 
@@ -75,8 +83,6 @@
 * 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[vol]](e-book-20150309.pdf) [[slideshare]](http://www.slideshare.net/madlymissyou/e-45876583)
 * 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
-* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
-* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
