@@ -141,7 +141,7 @@
 * 2016.03.28 알파고와 함께한 놀라운 일주일 `(국가과학기술연구회)`
 * 2016.03.31 알파고는 어떻게 바둑을 둘까 `(서울아산병원 영상의학과)`
 * 2016.04.01 알파고와 함께한 드라마틱한 일주일 `(데이터사이언스학회 @성균관대학교)`
-* 2016.04.05 알파고와 함께한 놀라운 일주일 `(벽돌한장 따뜻한과학마을E공감 @삼진정밀 대강당)`
+* 2016.04.05 알파고와 함께한 놀라운 일주일 `(벽돌한장 따뜻한과학마을E공감 @삼진정밀 대강당)` [[html]](http://samjinvalve1.cafe24.com/2013/sub1/menu5.php?idx=815&page=1&number=174&pmode=view&PHPSESSID=9cb7f5914ad7fc1b374f945e5119538d)
 * 2016.04.12 알파고는 어떻게 바둑을 두는가 `(산업통상자원부 @세종청사)`
 * 2016.04.16 **플레이어스포럼** 놀이의 천재들 `(플레이어스포럼 서울 @카우앤독)` [[aboutme]](https://www.facebook.com/groups/playwithuskorea/permalink/1179529138727050/)
 [[postscript]](https://www.facebook.com/groups/playwithuskorea/permalink/1194518637228100/) [[photos]](https://www.facebook.com/media/set/?set=oa.1180805058599458&type=1) [[press]](http://playwithus.kr/home/sketch/2434) [[video]](https://www.youtube.com/watch?v=cHk9Yw-K9Yc)
