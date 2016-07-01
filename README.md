@@ -173,14 +173,6 @@
 * 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 --
-#### Committees
-* 2013 EITR 융합기술영구부문 영보드 위원장
-* 2014 대전테크노파크 과학문화융합 정책로드맵 수립 연구회
-* 2016 ETRI '새로운 ETRI 만들기' TF 열린분과 간사
-* 2016 ETRI 'Brand Identity' TF
-* 2016 ETRI '정보공유&협업 활성화' TF
-
---
 #### Social communities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
