@@ -46,7 +46,7 @@
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
 * 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
 
-**알파고**
+###### 알파고
 * 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
 * 2016.03.09 [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
 * 2016.03.10 [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
@@ -57,14 +57,14 @@
 --
 #### Articles
 
-**중도일보 <백북스와 함께 읽는 책>**
+###### 중도일보 <백북스와 함께 읽는 책>
 * 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
 * 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
 * 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
 * 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
 * 2012.06.13 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201206130038)
 
-**대덕넷 <이정원의 문화 산책>**
+###### 대덕넷 <이정원의 문화 산책>
 * 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
 * 2013.07.02 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
 * 2013.09.03 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
@@ -76,7 +76,7 @@
 * 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
 * 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
 
-**프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회**
+###### 프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회
 * 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
