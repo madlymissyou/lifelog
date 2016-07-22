@@ -25,7 +25,7 @@
 * 2002-     한국전자통신연구원
 
 --
-#### Education
+### Education
 * 카이스트 바이오및뇌공학과 박사 수료 
   * `신경동역학연구실(Brain Dynamics Lab): 지도교수 정재승` [[homepage]](http://raphe.kaist.ac.kr/index.htm)
 * 서울대학교 의용생체협동과정 의공학교실 석사 졸업 
@@ -37,11 +37,11 @@
 * 광남초등학교 졸업
 
 --
-#### TV
+### TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
 --
-#### Press
+### Press
 * 2012.09.06 대덕의 젊은 과학자 `대전일보 12면` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
 * 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
@@ -55,7 +55,7 @@
 * 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 --
-#### Articles
+### Articles
 
 ###### 중도일보 <백북스와 함께 읽는 책>
 * 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
@@ -86,7 +86,7 @@
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 --
-#### Invited Talks
+### Invited Talks
 * 2008.09.06 과학적 사고 `(백북스 심포지움)`
 * 2008.11.07 여행의 테마 `(대덕넷)`
 * 2010.10.24 시간의 놀라운 발견 `(주니어백북스)`
@@ -156,7 +156,7 @@
 * 2016.07.21 의료영상처리 연구의 미래 인공지능 기술의 전망 '(포항가속기연구소)'
 
 --
-#### Radio/Podcast
+### Radio/Podcast
 * 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
 * 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
 * 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
@@ -167,14 +167,14 @@
 * 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 
 --
-#### Contests
+### Contest
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
 * 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 --
-#### Social communities
+### Social communities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
   * `2008 [동아일보] 시민과학자의 뜨거운 열기` [[jpg]](https://www.dropbox.com/s/25f7bj1gucvplq8/%5B2008.06.03%5D%20%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%20%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EA%B8%B0%EC%82%AC%20-%20%EC%A7%80%EB%AA%85%ED%9B%88.jpg?dl=0)
@@ -200,7 +200,7 @@
 * **두터운 현재 (Layered Now)**
 
 --
-#### Social activities
+### Social activities
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
@@ -210,7 +210,7 @@
   * [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
 
 --
-#### Personal projects
+### Personal projects
 * 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
   * `2003.04 동학사/마곡사/장곡사`
   * `2003.05 선산 죽장동 오층석탑/의성 탑리 오층석탑/의성 빙산사지 오층석탑`
