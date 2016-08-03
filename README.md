@@ -397,6 +397,6 @@
   * 2004.11 시카고 Blue Chicago, House of Blues, Jazz Showcase, Coyote Ugly, Blue Chicago, Buddy tiny's legend, Blue Chicago
 
 * 영화 
-  * 본 영화 별평 목록 [[wathcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
+  * 본 영화 별평 목록 [[watcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
   
 * 마법의 정리 프로젝트
