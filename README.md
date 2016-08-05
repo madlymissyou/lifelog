@@ -190,6 +190,7 @@
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
 * 2016 클라라하우스 페이스북 페이지 `founder`
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
+  * 불금에는 '우주 한 잔' 어때요? [사이언스타임즈](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
   * [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
   * [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
 
