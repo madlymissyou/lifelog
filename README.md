@@ -137,7 +137,7 @@
 * 2016.07.24 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
 * 2016.08.06 알파고와 함께한 놀라운 일주일 `(레드스쿨)` [[press]](http://news.donga.com/3/03/20160808/79634789/1)
 * 2016.08.07 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
-* 2016.08.08 알파고와 함께한 놀라운 일주일 `(선박해양플랜트연구소 융합교육 페스티벌)` [[notice]](http://www.kriso.re.kr/kcef-2016/?m_term_id=3)
+* 2016.08.08 알파고와 함께한 놀라운 일주일 `(선박해양플랜트연구소 융합교육 페스티벌)` [[press]](http://joongdo.co.kr/jsp/article/article_view.jsp?pq=201608071365) [[notice]](http://www.kriso.re.kr/kcef-2016/?m_term_id=3)
 
 --
 ### Radio/Podcast
