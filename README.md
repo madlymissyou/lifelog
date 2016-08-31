@@ -192,15 +192,15 @@
 * 2016 클라라하우스 페이스북 페이지 `founder`
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
   * 불금에는 '우주 한 잔' 어때요? [사이언스타임즈](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
-  * 2016.06.10 [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
-  * 2016.06.17 [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
-  * 2016.06.24 [#빅히스토리 3교시](https://www.facebook.com/hashtag/빅히스토리3교시) 빛의 속도가 유한하다는 것을 어떻게 알았을까?
-  * 2016.07.01 [#빅히스토리 4교시](https://www.facebook.com/hashtag/빅히스토리4교시) 태양에서 나오는 에너지의 양을 어떻게 계산할까?
-  * 2016.07.08 [#빅히스토리 5교시](https://www.facebook.com/hashtag/빅히스토리5교시) 처음에는 수소와 헬륨뿐이었다. 다른 원소들은 언제 어떻게 생겼을까? 그것을 어떻게 알았을까?
-  * 2016.07.15 [#빅히스토리 6교시](https://www.facebook.com/hashtag/빅히스토리6교시) 별은 어떻게 태어나서 어떻게 사라지나? 내 몸을 이루는 원소는 어디에서 왔나?
-  * 2016.07.22 [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?
-  * 2016.08.12 [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
-  * 2016.08.19 [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?
+  * `2016.06.10` [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
+  * `2016.06.17` [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
+  * `2016.06.24` [#빅히스토리 3교시](https://www.facebook.com/hashtag/빅히스토리3교시) 빛의 속도가 유한하다는 것을 어떻게 알았을까?
+  * `2016.07.01` [#빅히스토리 4교시](https://www.facebook.com/hashtag/빅히스토리4교시) 태양에서 나오는 에너지의 양을 어떻게 계산할까?
+  * `2016.07.08` [#빅히스토리 5교시](https://www.facebook.com/hashtag/빅히스토리5교시) 처음에는 수소와 헬륨뿐이었다. 다른 원소들은 언제 어떻게 생겼을까? 그것을 어떻게 알았을까?
+  * `2016.07.15` [#빅히스토리 6교시](https://www.facebook.com/hashtag/빅히스토리6교시) 별은 어떻게 태어나서 어떻게 사라지나? 내 몸을 이루는 원소는 어디에서 왔나?
+  * `2016.07.22` [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?
+  * `2016.08.12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
+  * `2016.08.19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?
   * 
 
 --
