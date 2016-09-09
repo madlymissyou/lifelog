@@ -191,7 +191,8 @@
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
 * 2016 클라라하우스 페이스북 페이지 `founder`
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
-  * 불금에는 '우주 한 잔' 어때요? [사이언스타임즈](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
+  * 불금에는 '우주 한 잔' 어때요? [[사이언스타임즈]](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
+  * 불금의 별난 바람? ... '과학교재' 공부하는 사람들 [[헬로디디]](http://www.hellodd.com/?md=news&mt=view&pid=59137)
   * `2016.06.10` [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
   * `2016.06.17` [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
   * `2016.06.24` [#빅히스토리 3교시](https://www.facebook.com/hashtag/빅히스토리3교시) 빛의 속도가 유한하다는 것을 어떻게 알았을까?
