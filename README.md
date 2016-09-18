@@ -9,6 +9,17 @@
   `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
  
+ Profile
+ Articles
+ TV
+ Press
+ Invited Talk
+ Radio/Podcast
+ Contest
+ Social Comunities
+ Social Activities
+ Personal Projects
+ 
 ---
 ### Profile
 책과 사람에 쉽게 매료되고, 과학과 예술을 흠모하며, 미술관과 재즈바에 머물기를 좋아합니다. 
@@ -152,14 +163,14 @@
 * 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 
 --
-### Contest
+### Contests
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
 * 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 --
-### Social communities
+### Social Communities
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
   * `2008 [동아일보] 시민과학자의 뜨거운 열기` [[jpg]](https://www.dropbox.com/s/25f7bj1gucvplq8/%5B2008.06.03%5D%20%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%20%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EA%B8%B0%EC%82%AC%20-%20%EC%A7%80%EB%AA%85%ED%9B%88.jpg?dl=0)
@@ -185,7 +196,7 @@
 * **두터운 현재 (Layered Now)**
 
 --
-### Social activities
+### Social Activities
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
@@ -205,7 +216,7 @@
   * 
 
 --
-### Personal projects
+### Personal Projects
 * 문화예술공연
  * 1997.11 난타 (동숭아트센터)
  * 1999.01 **미선이** 라이브 (대학로 서울째즈아카데미)
@@ -341,8 +352,6 @@
   * 영화 별평 보관함 [[watcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
    
 * 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
- 
-
   * 2003.04 동학사/마곡사/장곡사
   * 2003.05 선산 죽장동 오층석탑/의성 탑리 오층석탑/의성 빙산사지 오층석탑
   * 2003.05 태안 개심사/해미읍성
