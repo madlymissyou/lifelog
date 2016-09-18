@@ -1,8 +1,15 @@
 ### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
+ 
+  `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
+  `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
+  `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
+  `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)  
+  `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
+  `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
+  `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
-
- * [Profile](https://github.com/madlymissyou/cv/blob/master/README.md#profile)
+ ** [Profile](https://github.com/madlymissyou/cv/blob/master/README.md#profile)
  * [Articles](https://github.com/madlymissyou/cv/blob/master/README.md#articles)
  * [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv)
  * [Press](https://github.com/madlymissyou/cv/blob/master/README.md#press)
@@ -12,15 +19,6 @@
  * [Social Communities](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities)
  * [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities)
  * [Personal Projects](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
- 
-
-  `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
-  `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
-  `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
-  `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)  
-  `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
-  `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
-  `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
  
 ---
 ### Profile
