@@ -9,15 +9,15 @@
   `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
- * [프로필](https://github.com/madlymissyou/cv/blob/master/README.md#profile)
- * [칼럼](https://github.com/madlymissyou/cv/blob/master/README.md#articles) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
- [신문](https://github.com/madlymissyou/cv/blob/master/README.md#press) / 
- [강연](https://github.com/madlymissyou/cv/blob/master/README.md#invited-talks) / 
- [라디오](https://github.com/madlymissyou/cv/blob/master/README.md#radiopodcast) / 
- [콘테스트](https://github.com/madlymissyou/cv/blob/master/README.md#contests)
- * [커뮤니티](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities) / 
- [소셜 액티비티](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities) / 
- [프로젝트](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
+ * [프로필](https://github.com/madlymissyou/cv/blob/master/README.md#프로필)
+ * [칼럼](https://github.com/madlymissyou/cv/blob/master/README.md#칼럼) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
+ [신문](https://github.com/madlymissyou/cv/blob/master/README.md#신문) / 
+ [강연](https://github.com/madlymissyou/cv/blob/master/README.md#강연) / 
+ [라디오](https://github.com/madlymissyou/cv/blob/master/README.md#라디오) / 
+ [콘테스트](https://github.com/madlymissyou/cv/blob/master/README.md#콘테스트)
+ * [커뮤니티](https://github.com/madlymissyou/cv/blob/master/README.md#커뮤니티) / 
+ [액티비티](https://github.com/madlymissyou/cv/blob/master/README.md#액티비티) / 
+ [프로젝트](https://github.com/madlymissyou/cv/blob/master/README.md#프로젝트)
  
 ---
 ### 프로필
@@ -195,7 +195,7 @@
 * **두터운 현재 (Layered Now)**
 
 --
-### 소셜 액티비티
+### 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
