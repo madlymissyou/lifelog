@@ -10,13 +10,13 @@
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
  * [Profile](https://github.com/madlymissyou/cv/blob/master/README.md#profile)
- * [Articles](https://github.com/madlymissyou/cv/blob/master/README.md#articles) / [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
- [Press](https://github.com/madlymissyou/cv/blob/master/README.md#press)
- * [Invited Talks](https://github.com/madlymissyou/cv/blob/master/README.md#invited-talks) /
-  [Radio/Podcast](https://github.com/madlymissyou/cv/blob/master/README.md#radiopodcast) / 
+ * [Articles](https://github.com/madlymissyou/cv/blob/master/README.md#articles) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
+ [Press](https://github.com/madlymissyou/cv/blob/master/README.md#press) / 
+ [Invited Talks](https://github.com/madlymissyou/cv/blob/master/README.md#invited-talks) / 
+ [Radio/Podcast](https://github.com/madlymissyou/cv/blob/master/README.md#radiopodcast) / 
  [Contests](https://github.com/madlymissyou/cv/blob/master/README.md#contests)
  * [Social Communities](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities) / 
-  [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities) / 
+ [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities) / 
  [Personal Projects](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
  
 ---
