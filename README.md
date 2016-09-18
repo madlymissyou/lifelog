@@ -9,16 +9,16 @@
   `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
  
- Profile
- Articles
- TV
- Press
- Invited Talk
- Radio/Podcast
- Contest
- Social Comunities
- Social Activities
- Personal Projects
+ # [Profile](https://github.com/madlymissyou/cv/blob/master/README.md#profile)
+ ## [Articles](https://github.com/madlymissyou/cv/blob/master/README.md#articles)
+ ### [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv)
+ #### [Press](https://github.com/madlymissyou/cv/blob/master/README.md#press)
+ ##### [Invited Talk](https://github.com/madlymissyou/cv/blob/master/README.md#invited-talk)
+ * [Radio/Podcast](https://github.com/madlymissyou/cv/blob/master/README.md#radio-podcast)
+ * [Contests](https://github.com/madlymissyou/cv/blob/master/README.md#contests)
+ * [Social Communities](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities)
+ * [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities)
+ * [Personal Projects](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
  
 ---
 ### Profile
