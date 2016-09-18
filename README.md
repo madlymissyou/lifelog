@@ -12,7 +12,6 @@
  * [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities)
  * [Personal Projects](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
  
-
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
   `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
   `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
