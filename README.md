@@ -13,11 +13,11 @@
  * [칼럼](https://github.com/madlymissyou/cv/blob/master/README.md#articles) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
  [신문](https://github.com/madlymissyou/cv/blob/master/README.md#press) / 
  [강연](https://github.com/madlymissyou/cv/blob/master/README.md#invited-talks) / 
- [Radio/Podcast](https://github.com/madlymissyou/cv/blob/master/README.md#radiopodcast) / 
- [Contests](https://github.com/madlymissyou/cv/blob/master/README.md#contests)
- * [Social Communities](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities) / 
- [Social Activities](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities) / 
- [Personal Projects](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
+ [라디오](https://github.com/madlymissyou/cv/blob/master/README.md#radiopodcast) / 
+ [콘테스트](https://github.com/madlymissyou/cv/blob/master/README.md#contests)
+ * [커뮤니티](https://github.com/madlymissyou/cv/blob/master/README.md#social-communities) / 
+ [소셜 액티비티](https://github.com/madlymissyou/cv/blob/master/README.md#social-activities) / 
+ [프로젝트](https://github.com/madlymissyou/cv/blob/master/README.md#personal-projects)
  
 ---
 ### 프로필
@@ -26,7 +26,7 @@
 시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다. 
 
 --
-### Articles
+### 칼럼
 
 ###### 중도일보 <백북스와 함께 읽는 책>
 * 2011.12.14 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
@@ -61,7 +61,7 @@
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
 --
-### Press
+### 신문
 * 2012.09.06 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
 * 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
@@ -76,7 +76,7 @@
 * 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 --
-### Invited Talks
+### 강연
 * 2008.09.06 과학적 사고 `(백북스 심포지움)`
 * 2008.11.07 여행의 테마 `(대덕넷)`
 * 2010.10.24 시간의 놀라운 발견 `(주니어백북스)`
@@ -151,7 +151,7 @@
 * 2016.08.08 알파고와 함께한 놀라운 일주일 `(선박해양플랜트연구소 융합교육 페스티벌)` [[notice]](http://www.kriso.re.kr/kcef-2016/?m_term_id=3)
 
 --
-### Radio/Podcast
+### 라디오
 * 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
 * 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
 * 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
@@ -162,14 +162,14 @@
 * 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 
 --
-### Contests
+### 콘테스트
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
 * 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 * 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
 * 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 --
-### Social Communities
+### 커뮤니티
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
   * `2008 [한겨레21] 100권독서클럽으로 오세요 (이정원)` [[jpg]](https://www.dropbox.com/s/ooqp3kpa1njigdo/%5B2008.03.14%5D%20%ED%95%9C%EA%B2%A8%EB%A0%8821%20701%ED%98%B8%20-%20100%EA%B6%8C%EB%8F%85%EC%84%9C%ED%81%B4%EB%9F%BD%EC%9C%BC%EB%A1%9C%20%EC%98%A4%EC%84%B8%EC%9A%94.jpg?dl=0)
   * `2008 [동아일보] 시민과학자의 뜨거운 열기` [[jpg]](https://www.dropbox.com/s/25f7bj1gucvplq8/%5B2008.06.03%5D%20%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4%20%EC%B6%A9%EC%B2%AD%EA%B6%8C%20%EA%B8%B0%EC%82%AC%20-%20%EC%A7%80%EB%AA%85%ED%9B%88.jpg?dl=0)
@@ -195,7 +195,7 @@
 * **두터운 현재 (Layered Now)**
 
 --
-### Social Activities
+### 소셜 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
@@ -215,7 +215,7 @@
   * 
 
 --
-### Personal Projects
+### 프로젝트
 * 문화예술공연
  * 1997.11 난타 (동숭아트센터)
  * 1999.01 **미선이** 라이브 (대학로 서울째즈아카데미)
@@ -403,6 +403,4 @@
   * 2013.08 고성 상족암군립공원
   * 2014.09 부여박물관
   * 2014.10 마곡사
-
-
 * 마법의 정리 프로젝트
