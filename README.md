@@ -10,17 +10,11 @@
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
  * [프로필](#프로필)
- * [칼럼](https://github.com/madlymissyou/cv/blob/master/README.md#칼럼) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
- [신문](https://github.com/madlymissyou/cv/blob/master/README.md#신문) / 
- [강연](https://github.com/madlymissyou/cv/blob/master/README.md#강연) / 
- [라디오](https://github.com/madlymissyou/cv/blob/master/README.md#라디오) / 
- [콘테스트](https://github.com/madlymissyou/cv/blob/master/README.md#콘테스트)
- * [커뮤니티](https://github.com/madlymissyou/cv/blob/master/README.md#커뮤니티) / 
- [액티비티](https://github.com/madlymissyou/cv/blob/master/README.md#액티비티) / 
- [프로젝트](https://github.com/madlymissyou/cv/blob/master/README.md#프로젝트)
+ * [칼럼](#칼럼) /  [TV](#tv) / [신문](#신문) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
+ * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [프로젝트](#프로젝트)
  
 ---
-### 프로필
+## 프로필
 [home](https://github.com/madlymissyou/cv/blob/master/README.md)
 책과 사람에 쉽게 매료되고, 과학과 예술을 흠모하며, 미술관과 재즈바에 머물기를 좋아합니다. 
 펜탁스 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다. 
