@@ -9,7 +9,7 @@
   `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
- * [프로필](https://github.com/madlymissyou/cv/blob/master/README.md#프로필)
+ * [프로필](#프로필)
  * [칼럼](https://github.com/madlymissyou/cv/blob/master/README.md#칼럼) /  [TV](https://github.com/madlymissyou/cv/blob/master/README.md#tv) / 
  [신문](https://github.com/madlymissyou/cv/blob/master/README.md#신문) / 
  [강연](https://github.com/madlymissyou/cv/blob/master/README.md#강연) / 
@@ -21,7 +21,7 @@
  
 ---
 ### 프로필
-
+[home](https://github.com/madlymissyou/cv/blob/master/README.md)
 책과 사람에 쉽게 매료되고, 과학과 예술을 흠모하며, 미술관과 재즈바에 머물기를 좋아합니다. 
 펜탁스 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다. 
 시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다. 
