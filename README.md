@@ -390,6 +390,12 @@
   * 2014.10 마곡사
 * 마법의 정리 프로젝트
 
+
+## Apps
+* Mac
+ 
+* Windows
+
 ## Gadgets
 * Computers & Phone
  * Apple iPhone 5 
