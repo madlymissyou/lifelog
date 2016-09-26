@@ -391,13 +391,13 @@
 * 마법의 정리 프로젝트
 
 ## Gadgets
- **** Computers & Phone
+ #### Computers & Phone
   * Apple iPhone 5 
   * Apple iMac (27-inch, Late 2012) 
   * Apple iPhone 6s 로즈골드 (2015)
   * Apple Macbook 로즈골드 (12-inch, 2016)
  
- **** Camera
+ #### Camera
   * Nikon Cooplix 4500 (2002)
   * DSLR Pentax istDS2 (2005)
   * DSLR Pentax K20D (2008)
@@ -405,7 +405,7 @@
   * Gopro Hero 3 Black
   * Gopro Hero 4 Silver
   
- **** Audio
+ #### Audio
   * 포터블 CDP 파나소닉 510 (1996)
   * 포터블 CDP 파나소닉 780 (1999)
   * 이어폰 Sony 747 (1999)
