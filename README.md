@@ -393,10 +393,19 @@
 
 
 ## Apps
-* Mac
- 
-* Windows
-
+* Common
+  * Mendeley
+  * Wunderlist
+  * Slack
+  * Bracket
+  * Photoscape
+* Mac only
+  * Spectacle
+  * Ji Touch  
+* Windows only
+  * Search Everything
+  * SyncToy 2.0
+  
 ## Gadgets
 * Computers & Phone
  * Apple iPhone 5 (2012)
