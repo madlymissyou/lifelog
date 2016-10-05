@@ -6,6 +6,7 @@
   `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
   `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)  
   `Vimeo` [vimeo.com/madlymissyou](https://vimeo.com/madlymissyou)
+  
   `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
   `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
