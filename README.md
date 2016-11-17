@@ -417,7 +417,7 @@
  
 * Camera
  * Nikon Cooplix 4500 (2002)
- * DSLR Pentax istDS2 (2005)
+ * DSLR Pentax istDS2 (2006)
  * DSLR Pentax K20D (2008)
  * DSLR Pentax K5 (2011)
  * Gopro Hero 3 Black (2014)
