@@ -51,6 +51,12 @@
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
+###### 대전일보 <이정원의 문화산책>
+* 2017.01.06 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
+* 2017.01.19 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
+* 2017.02.02 올올이 풀어진 매듭처럼 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1250087)
+* 2017.02.16 변화의 바람은 변방에서 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1251993)
+
 ## TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
