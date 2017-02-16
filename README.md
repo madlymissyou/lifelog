@@ -11,7 +11,7 @@
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
  * [프로필](#프로필)
- * [칼럼](#칼럼) /  [TV](#tv) / [신문](#신문) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
+ * [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
  * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [프로젝트](#프로젝트)
  * [Apps](#apps) / [Gadgets](#gadgets)
  
@@ -51,6 +51,14 @@
 * 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
+###### 알파고
+* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
+* 2016.03.09 [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
+* 2016.03.10 [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
+* 2016.03.12 [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
+* 2016.03.13 [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
+* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
+
 ###### 대전일보 <이정원의 문화산책>
 * 2017.01.06 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
 * 2017.01.19 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
@@ -60,19 +68,11 @@
 ## TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
-## 신문
+## 언론기사
 * 2012.09.06 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
 * 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
 * 2016.05.03 아이와 ‘놀아주지’ 말고, 같이 ‘놀아보세요’ `한겨레신문` [[html]](http://www.hani.co.kr/arti/society/schooling/742231.html)
-
-###### 알파고
-* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
-* 2016.03.09 [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
-* 2016.03.10 [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
-* 2016.03.12 [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
-* 2016.03.13 [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
-* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 ## 강연
 * 2008.09.06 과학적 사고 `(백북스 심포지움)`
