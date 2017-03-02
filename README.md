@@ -52,18 +52,19 @@
 * 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 ###### 알파고
-* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003151523)
+* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.chosun.com/site/data/html_dir/2016/03/08/2016030800390.html)
 * 2016.03.09 [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
 * 2016.03.10 [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
 * 2016.03.12 [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
 * 2016.03.13 [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
-* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=023&aid=0003160410) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
+* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.chosun.com/site/data/html_dir/2016/04/01/2016040101422.html) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 ###### 대전일보 <이정원의 문화산책>
 * 2017.01.06 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
 * 2017.01.19 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
 * 2017.02.02 올올이 풀어진 매듭처럼 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1250087)
 * 2017.02.16 변화의 바람은 변방에서 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1251993)
+* 2017.03.02 알파고와 함께한 놀라운 일주일 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1253918)
 
 ## TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
