@@ -68,6 +68,7 @@
 * 2017.02.02 올올이 풀어진 매듭처럼 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1250087)
 * 2017.02.16 변화의 바람은 변방에서 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1251993)
 * 2017.03.02 알파고와 함께한 놀라운 일주일 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1253918)
+* 2017.03.16 잠시 꺼두셔도 좋습니다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1255785)
 
 ## TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
