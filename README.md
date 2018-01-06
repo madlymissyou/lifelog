@@ -437,29 +437,29 @@
   
 ## Gadgets
 * Computers & Phone
- * Apple iPhone 5 (2012)
- * Apple iMac (27-inch, Late 2012) 
- * Apple iPhone 6s 로즈골드 (2015)
- * Apple Macbook 로즈골드 (12-inch, 2016)
+  * Apple iPhone 5 (2012)
+  * Apple iMac (27-inch, Late 2012) 
+  * Apple iPhone 6s 로즈골드 (2015)
+  * Apple Macbook 로즈골드 (12-inch, 2016)
  
 * Camera
- * Nikon Cooplix 4500 (2002)
- * DSLR Pentax istDS2 (2006)
- * DSLR Pentax K20D (2008)
- * DSLR Pentax K5 (2011)
- * Gopro Hero 3 Black (2014)
- * Gopro Hero 4 Silver (2015)
+  * Nikon Cooplix 4500 (2002)
+  * DSLR Pentax istDS2 (2006)
+  * DSLR Pentax K20D (2008)
+  * DSLR Pentax K5 (2011)
+  * Gopro Hero 3 Black (2014)
+  * Gopro Hero 4 Silver (2015)
   
 * Audio
- * 포터블 CDP 파나소닉 510 (1996)
- * 포터블 CDP 파나소닉 780 (1999)
- * 이어폰 Sony 747 (1999)
- * 앰프 캠브리지오디오 Azur 540A (2005)
- * CDP 캠브리지오디오 Azur 540D (2005)
- * 톨보이 스피커 Epos M22 (2005)
- * 블루투스 미니스피커 Jambox (2011)
- * 블루투스 이어폰 Boss SoundSport (2016)
- * 카카오 미니 (2017)
+  * 포터블 CDP 파나소닉 510 (1996)
+  * 포터블 CDP 파나소닉 780 (1999)
+  * 이어폰 Sony 747 (1999)
+  * 앰프 캠브리지오디오 Azur 540A (2005)
+  * CDP 캠브리지오디오 Azur 540D (2005)
+  * 톨보이 스피커 Epos M22 (2005)
+  * 블루투스 미니스피커 Jambox (2011)
+  * 블루투스 이어폰 Boss SoundSport (2016)
+  * 카카오 미니 (2017)
 
 
 [[back to home]](#이정원-jeongwon-lee)
