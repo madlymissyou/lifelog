@@ -11,9 +11,9 @@
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
 
  * [프로필](#프로필)
- * [번역서](#번역서) / [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
+ * [책](#책) / [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
  * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [문화예술](#문화예술)
- * [Apps](#apps) / [Gadgets](#gadgets)
+ * [Gadgets](#gadgets)
  
 ---
 ## 프로필
@@ -22,7 +22,7 @@
 펜탁스 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다. 
 시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다. 
 
-## 번역서
+## 책
 * 2017.12.08 **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
 
 ## 칼럼
@@ -45,7 +45,7 @@
 * 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
 * 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
 
-###### 프레시안Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회
+###### 프레시안 Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회
 * 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
 * 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
 * 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
@@ -74,6 +74,19 @@
 ## TV
 * 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
+## 라디오
+* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
+* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
+* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
+* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
+* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
+* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
+
+## 인터넷방송
+* 2016.05.18 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
+* 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
+* 2018.02.08 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316)
+
 ## 언론기사
 * 2012.09.06 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
 * 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
@@ -81,6 +94,7 @@
 * 2016.05.03 아이와 ‘놀아주지’ 말고, 같이 ‘놀아보세요’ `한겨레신문` [[html]](http://www.hani.co.kr/arti/society/schooling/742231.html)
 
 ## 강연
+###### 2012 이전
 * 2008.09.06 과학적 사고 `(백북스 심포지움)`
 * 2008.11.07 여행의 테마 `(대덕넷)`
 * 2010.10.24 시간의 놀라운 발견 `(주니어백북스)`
@@ -170,17 +184,9 @@
 ###### 2018년
 * 2018.01.03 <생각의 기원> 번역 후기 `(ETRI 톡서클럽)`
 * 2018.01.05 마이티 프로젝트 `(빅히스토리 프로젝트 시즌2)`
+* 2018.01.12 라이프로그 `(ETRI 톡서클럽)`
 * 2018.01.24 알파고와 함께한 놀라운 일주일 `(CDE 학회 @횡성 웰리힐리 리조트)`
-
-## 라디오
-* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
-* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
-* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
-* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
-* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
-* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
-* 2016.05.18 대덕밸리라디오 1주년 특집 50회차 [[video]](https://www.youtube.com/watch?v=wL1xEIooySo)
-* 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
+* 2018.01.24 스트림스로 시작하는 강화학습 `(CDE 학회 @횡성 웰리힐리 리조트)`
 
 ## 콘테스트
 * 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
@@ -421,20 +427,6 @@
   * 2014.09 부여박물관
   * 2014.10 마곡사
 
-## Apps
-* Common
-  * Mendeley
-  * Wunderlist
-  * Slack
-  * Bracket
-  * Photoscape
-* Mac only
-  * Spectacle
-  * Ji Touch  
-* Windows only
-  * Search Everything
-  * SyncToy 2.0
-  
 ## Gadgets
 * Computers & Phone
   * Apple iPhone 5 (2012)
