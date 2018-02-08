@@ -218,12 +218,6 @@
   * `2016 "알파고와 함께한 드라마틱한 일주일"…과학마을이야기 성황` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
   * `2016 [CMB뉴스] 따뜻한 과학마을 만드는 '벽돌한장'` [[youtube]](https://www.youtube.com/watch?v=5fFwxwbiDdA&feature=youtu.be)
 * **두터운 현재 (Layered Now)**
-
-## 액티비티
-* 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
-* 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
-* 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
-* 2016 클라라하우스 페이스북 페이지 `founder`
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
   * 불금에는 '우주 한 잔' 어때요? [[사이언스타임즈]](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
   * 불금의 별난 바람? ... '과학교재' 공부하는 사람들 [[헬로디디]](http://www.hellodd.com/?md=news&mt=view&pid=59137)
@@ -237,6 +231,11 @@
   * `2016.08.12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
   * `2016.08.19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?
   * 
+  
+## 액티비티
+* 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
+* 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
+* 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
 
 ## 문화예술
 * 문화예술공연
