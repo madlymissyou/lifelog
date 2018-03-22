@@ -85,7 +85,7 @@
 ## 인터넷방송
 * 2016.05.18 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
 * 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
-* 2018.02.08 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316)
+* 2018.02.08 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
 
 ## 언론기사
 * 2012.09.06 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
@@ -230,11 +230,12 @@
   * `2016.07.22` [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?
   * `2016.08.12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
   * `2016.08.19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?
-  * `2017.05.12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?
+  * `2017.05.12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?  
   * `2017.05.26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
  
 ## 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
+* 2016 퍼블리publy REBOOT FORUM #1 '인공지능 시대의 미래 교육' (성수동 디웰) [[html]](http://blog.publy.co/?p=2963)
 * 2016 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
 
