@@ -230,7 +230,9 @@
   * `2016.07.22` [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?
   * `2016.08.12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
   * `2016.08.19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?
+  
   * `2017.05.12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?  
+  
   * `2017.05.26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
  
 ## 액티비티
