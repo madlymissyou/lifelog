@@ -448,6 +448,7 @@
   * DSLR Pentax K5 (2011)
   * Gopro Hero 3 Black (2014)
   * Gopro Hero 4 Silver (2015)
+  * Sony a7mIII (2018)
   
 * Audio
   * 포터블 CDP 파나소닉 510 (1996)
