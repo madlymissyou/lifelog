@@ -376,6 +376,7 @@
   * 2002.07 파리 Duc Des Rombards
   * 2003.12 시카고 House of Blue, Blue Chicago, Andy's Jazz Club, Blue Chicago
   * 2004.11 시카고 Blue Chicago, House of Blues, Jazz Showcase, Coyote Ugly, Blue Chicago, Buddy tiny's legend, Blue Chicago
+  * 2018.11 런던 
 
 * 영화 
   * 영화 별평 보관함 [[watcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
@@ -440,6 +441,7 @@
   * Apple iMac (27-inch, Late 2012) 
   * Apple iPhone 6s 로즈골드 (2015)
   * Apple Macbook 로즈골드 (12-inch, 2016)
+  * Apple Macbook Pro (13-inch, 2018)
  
 * Camera
   * Nikon Cooplix 4500 (2002)
@@ -449,6 +451,7 @@
   * Gopro Hero 3 Black (2014)
   * Gopro Hero 4 Silver (2015)
   * Sony a7mIII (2018)
+  * Gopro Hero 7 Black (2018)
   
 * Audio
   * 포터블 CDP 파나소닉 510 (1996)
@@ -460,6 +463,7 @@
   * 블루투스 미니스피커 Jambox (2011)
   * 블루투스 이어폰 Boss SoundSport (2016)
   * 카카오 미니 (2017)
+  * 블루투스 이어폰 Apple Airpod (2018)
 
 
 [[back to home]](#이정원-jeongwon-lee)
