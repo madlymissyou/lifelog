@@ -1,6 +1,6 @@
 ### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
- 
+
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
   `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
   `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
@@ -14,207 +14,232 @@
  * [책](#책) / [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
  * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [문화예술](#문화예술)
  * [Gadgets](#gadgets)
- 
+
 ---
 ## 프로필
 
-책과 사람에 쉽게 매료되고, 과학과 예술을 흠모하며, 미술관과 재즈바에 머물기를 좋아합니다. 
-펜탁스 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다. 
-시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다. 
+책과 사람에 쉽게 매료되고, 과학과 예술을 흠모하며, 미술관과 재즈바에 머물기를 좋아합니다.
+펜탁스 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다.
+시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다.
 
 ## 책
-* 2017.12.08 **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
+* `2017-12-08` **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
 
 ## 칼럼
 ###### 중도일보 <백북스와 함께 읽는 책>
-* `2011-12-14` 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025) 
-* 2012.01.30 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
-* 2012.03.13 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
-* 2012.04.24 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
-* 2012.06.13 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201206130038)
+* `2011-12-14` 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025)
+* `2012-01-30` 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201201310078)
+* `2012-03-13` 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201203140037)
+* `2012-04-24` 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201204250038)
+* `2012-06-13` 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201206130038)
 
 ###### 대덕넷 <이정원의 문화 산책>
-* 2013.05.01 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
-* 2013.07.02 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
-* 2013.09.03 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
-* 2013.11.05 바람에 춤추는 모네의 양귀비 꽃 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=44374)
-* 2014.01.07 베로나 오페라축제 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47131)
-* 2014.03.11 센디에이고 재즈바 탐방 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47966)
-* 2014.05.07 파비오 비온디로 클래식 입문하기 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=48722)
-* 2014.07.08 독일과 브라질의 리턴매치 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=49412)
-* 2014.09.02 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
-* 2014.11.04 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
+* `2013-05-01` 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
+* `2013-07-02` 매력적인 섬 시칠리아 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=42590)
+* `2013-09-03` 독특한 공간 프릭 컬렉션 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=43504)
+* `2013-11-05` 바람에 춤추는 모네의 양귀비 꽃 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=44374)
+* `2014-01-07` 베로나 오페라축제 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47131)
+* `2014-03-11` 센디에이고 재즈바 탐방 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=47966)
+* `2014-05-07` 파비오 비온디로 클래식 입문하기 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=48722)
+* `2014-07-08` 독일과 브라질의 리턴매치 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=49412)
+* `2014-09-02` 요절한 천재 작곡가 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50031)
+* `2014-11-04` 18년 만에 듣는 미적분 강의 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=50715)
 
 ###### 프레시안 Books, 한국엔지니어클럽, KAIST, ETRI, 국립중앙과학관, 대전시민아카데미, 아태이론물리학회
-* 2013.08.09 '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
-* 2014.10.20 TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
-* 2014.12.01 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
-* 2015.02.11 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[vol]](e-book-20150309.pdf) [[slideshare]](http://www.slideshare.net/madlymissyou/e-45876583)
-* 2016.02.01 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
-* 2015.06.10 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
-* 2016.06.01 **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
+* `2013-08-09` '집컴'으로 음식 찍어내는 시대! 당신은? `(프레시안Books 153호 <3D프린팅의 신세계>, <3D 프린터의 모든 것>)` [[html]](http://www.pressian.com/news/article.html?no=69238) [[text]](https://madlymissyou.wordpress.com/2013/08/09/%ED%94%84%EB%A0%88%EC%8B%9C%EC%95%88%EB%B6%81%EC%8A%A4-3d-%ED%94%84%EB%A6%B0%ED%84%B0%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-3d-%ED%94%84%EB%A6%B0%ED%8C%85%EC%9D%98-%EC%8B%A0%EC%84%B8%EA%B3%84/)
+* `2014-10-20` TEDxKAIST를 만들어 가는 청춘들에게 `(KAISTAR Webzine)` [[html]](http://kaistar.e-eyagi.com/sub03/articles/view/tableid/board3/type/eNortjK3UiouTcpKTS5RsgZcMCHtBI4./keyword/eNortrK0UipJTanITswsLlGyBlwwLWcFcQ/button/eNortjI0slJ6tanhTXPn26kzXu3YoGQNXDBitQpK/page/1/id/4884)
+* `2014-12-01` 18년 만에 듣는 미적분 강의 `(한국엔지니어클럽 웹진 The Play Factory Vol. 34)` [[html]](http://kecstory.tistory.com/836)
+* `2015-02-11` 행복의 기원 `(ETRI 좋은e웃)` [[pdf]](e-book-20150309-happinenss.pdf) [[vol]](e-book-20150309.pdf) [[slideshare]](http://www.slideshare.net/madlymissyou/e-45876583)
+* `2016-02-01` 과학이 예술을 만날 때 `(국립중앙과학관 웹진 과학지팡이 Vol.6)` [[pdf]](jipangiVol6article.pdf) [[vol]](jipangiVol6.pdf)
+* `2015-06-10` 바벨의 도서관: 통찰의 시대를 읽고 `(대전시민아카데미 문화매거진 상상 2호)` [[text]](https://madlymissyou.wordpress.com/2015/06/10/the-age-of-insight/)
+* `2016-06-01` **기술은 세상을 바꾸는데, 과학은 어디에 쓰나?** `(APCTP 크로스로드 웹진 129호)` [[html]](https://www.facebook.com/crossroads.apctp/posts/822209387911626)
 
 ###### 알파고
-* 2016.03.08 **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.chosun.com/site/data/html_dir/2016/03/08/2016030800390.html)
-* 2016.03.09 [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
-* 2016.03.10 [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
-* 2016.03.12 [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
-* 2016.03.13 [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
-* 2016.04.02 **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.chosun.com/site/data/html_dir/2016/04/01/2016040101422.html) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
+* `2016-03-08` **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.chosun.com/site/data/html_dir/2016/03/08/2016030800390.html)
+* `2016-03-09` [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
+* `2016-03-10` [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
+* `2016-03-12` [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
+* `2016-03-13` [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
+* `2016-04-02` **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.chosun.com/site/data/html_dir/2016/04/01/2016040101422.html) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 ###### 대전일보 <이정원의 문화산책>
-* 2017.01.06 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
-* 2017.01.19 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
-* 2017.02.02 올올이 풀어진 매듭처럼 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1250087)
-* 2017.02.16 변화의 바람은 변방에서 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1251993)
-* 2017.03.02 알파고와 함께한 놀라운 일주일 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1253918)
-* 2017.03.16 잠시 꺼두셔도 좋습니다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1255785)
-* 2017.03.30 건축가로서의 명성을 질투한 화가의 분투 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1257757)
+* `2017-01-06` 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
+* `2017-01-19` 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
+* `2017-02-02` 올올이 풀어진 매듭처럼 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1250087)
+* `2017-02-16` 변화의 바람은 변방에서 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1251993)
+* `2017-03-02` 알파고와 함께한 놀라운 일주일 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1253918)
+* `2017-03-16` 잠시 꺼두셔도 좋습니다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1255785)
+* `2017-03-30` 건축가로서의 명성을 질투한 화가의 분투 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1257757)
 
 ## TV
-* 2016.03.11 **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
+* `2016-03-11` **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
 ## 라디오
-* 2014.04.03 KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
-* 2014.05.01 KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
-* 2014.05.22 KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
-* 2014.06.12 KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
-* 2014.07.03 KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
-* 2014.07.31 KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
+* `2014-04-03` KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
+* `2014-05-01` KBS대전라디오 모리와 함께 한 화요일 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140501)
+* `2014-05-22` KBS대전라디오 행복의 가격 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140522)
+* `2014-06-12` KBS대전라디오 요람 속의 과학자 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140612)
+* `2014-07-03` KBS대전라디오 르네상스 미술이야기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140703)
+* `2014-07-31` KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
 
 ## 인터넷방송
-* 2016.05.18 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
-* 2016.06.03 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
-* 2018.02.08 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
+* `2016-05-18` 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
+* `2016-06-03` 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
+* `2018-02-08` 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
 
 ## 언론기사
-* 2012.09.06 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
-* 2013.01.24 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
-* 2014.04.08 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
-* 2016.05.03 아이와 ‘놀아주지’ 말고, 같이 ‘놀아보세요’ `한겨레신문` [[html]](http://www.hani.co.kr/arti/society/schooling/742231.html)
+* `2012-09-06` 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
+* `2013-01-24` 科技중심은 대덕·현장 중심! 대덕 과기인에 달렸다 `대덕넷` [[jpg]](https://www.dropbox.com/s/jul1gh6zx0n3t5g/%EB%8C%80%EB%8D%95%EB%84%B7%20%EB%A9%94%EC%9D%B8%20%282013.01.24%29.jpg?dl=0) [[html]](http://life.hellodd.com/Kr/DD_News/Article_View.asp?Mtype=sub2&Mark=40543&Midx=&Pidx=103&Page=5)
+* `2014-04-08` 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
+* `2016-05-03` 아이와 ‘놀아주지’ 말고, 같이 ‘놀아보세요’ `한겨레신문` [[html]](http://www.hani.co.kr/arti/society/schooling/742231.html)
 
 ## 강연
 ###### 2012 이전
-* 2008.09.06 과학적 사고 `(백북스 심포지움)`
-* 2008.11.07 여행의 테마 `(대덕넷)`
-* 2010.10.24 시간의 놀라운 발견 `(주니어백북스)`
-* 2011.09.19 과학적 사고 `(과학예술포럼 @백북스홀)`
-* 2012.08.07 컴퓨터도움진단 `(한국표준연구원)`
-* 2012.10.18 이탈리아 르네상스 테마여행 `(대덕넷)`
+* `2008-09-06` 과학적 사고 `(백북스 심포지움)`
+* `2008-11-07` 여행의 테마 `(대덕넷)`
+* `2010-10-24` 시간의 놀라운 발견 `(주니어백북스)`
+* `2011-09-19` 과학적 사고 `(과학예술포럼 @백북스홀)`
+* `2012-08-07` 컴퓨터도움진단 `(한국표준연구원)`
+* `2012-10-18` 이탈리아 르네상스 테마여행 `(대덕넷)`
 
 ###### 2013년
-* 2013.01.18 이탈리아 르네상스 테마여행 `(ETRI독서모임)`
-* 2013.03.14 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)` 
-[[press1]](http://www.hellodd.com/?md=news&mt=view&pid=41318) 
+* `2013-01-18` 이탈리아 르네상스 테마여행 `(ETRI독서모임)`
+* `2013-03-14` 메디치가든 프로젝트 `(제1회 상상력포럼D @UST 대강당)`
+[[press1]](http://www.hellodd.com/?md=news&mt=view&pid=41318)
 [[press2]](http://www.hellodd.com/?md=news&mt=view&pid=41316)
-[[press3]](http://www.hellodd.com/?md=news&mt=view&pid=41900) 
-* 2013.03.26 **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
-* 2013.05.11 **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-6th/)
+[[press3]](http://www.hellodd.com/?md=news&mt=view&pid=41900)
+* `2013-03-26` **백북스** <피렌체, 시간에 잠기다> `(대전백북스 @백북스홀)`
+* `2013-05-11` **TEDxKAIST** 메디치가든 프로젝트 `(TEDxKAIST 'B-C-D' @KAIST)` [[video]](https://www.youtube.com/watch?v=D23gXt0cOPc) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-6th/)
 [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41867)
-* 2012.11.01 연구도 1등, 독서도 1등 `대덕넷` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
+* `2012-11-01` 연구도 1등, 독서도 1등 `대덕넷` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 
 ###### 2014년
-* 2014.03.19 '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
+* `2014-03-19` '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
 [[photos]](https://www.facebook.com/jayasalon/posts/411061075697728?pnref=story)
-* 2014.05.31 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
-* 2014.06.20 바이오의료IT연구 세미나 `(에트리)`
-* 2014.09.27 **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289) 
-* 2014.10.27 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)` [[press]](http://www.djenews.co.kr/news/articleView.html?idxno=16938)
-* 2014.11.26 인생을 간결하고 풍요롭게 만드는 정리법 `(@지금러닝센터)`
+* `2014-05-31` 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
+* `2014-06-20` 바이오의료IT연구 세미나 `(에트리)`
+* `2014-09-27` **TEDxKAIST** 내 인생의 조각모음 `(TEDxKAIST '디스크 조각모음' @KAIST)` [[video]](https://www.youtube.com/watch?v=iLZROvYHnec) [[info]](http://tedxkaist.com/event/past-events/tedxkaist-2014/) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=50289)
+* `2014-10-27` 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)` [[press]](http://www.djenews.co.kr/news/articleView.html?idxno=16938)
+* `2014-11-26` 인생을 간결하고 풍요롭게 만드는 정리법 `(@지금러닝센터)`
 
 ###### 2015년
-* 2015.04.07 <통찰의 시대> `(새로운 통찰을 생각하는 사람들 @에트리)`
-* 2015.05.16 **플레이어스포럼** 이 아빠가 노는 법 `(플레이어스포럼 대전 @앨리먼트랩)` [[video]](https://www.youtube.com/watch?v=fxgSU7dOoiQ) [[press]](http://playwithus.kr/home/sketch/658) 
+* `2015-04-07` <통찰의 시대> `(새로운 통찰을 생각하는 사람들 @에트리)`
+* `2015-05-16` **플레이어스포럼** 이 아빠가 노는 법 `(플레이어스포럼 대전 @앨리먼트랩)` [[video]](https://www.youtube.com/watch?v=fxgSU7dOoiQ) [[press]](http://playwithus.kr/home/sketch/658)
 [[photo]](https://www.facebook.com/permalink.php?story_fbid=1476930332632114&id=1401591210166027) [[video]](https://www.youtube.com/watch?v=4QEgCvVpIqk)
-* 2015.05.20 컴퓨터도움진단 `(뷰노)`
-* 2015.06.12 뉴로인포매틱스 `(eMIT 클래스 @을지대학교 의과대학)`
-* 2015.07.07 의료영상 빅데이터 활용 `(뷰노)`
-* 2015.07.28 **백북스** <통찰의 시대> `(대전백북스 @백북스홀)`
-* 2015.09.01 과학문화 `(여성과학기술인회)`
-* 2015.10.03 과학과 예술 `(지리산프로젝트 @성심원 대강당)` [[press]](http://www.hannamilbo.com/news/articleView.html?idxno=115860)
-* 2015.10.30 **서울백북스** <통찰의 시대> `(서울백북스)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-54574439)
-* 2015.11.11 일상의 과학 `(대덕넷 이공인턴직원 연수교육 @에트리)`
-* 2015.11.25 Image Informatics `(서울아산병원 의공학 심포지움 @서울아산병원)`
-* 2015.12.02 데이터 관리 `(정보설계 클래스 @한남대학교 문헌정보학과)`
-* 2015.12.04 <통찰의 시대> `(대덕넷 과학리더캠프 @국가과학기술인력개발원 오창본원)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=56163)
-* 2015.12.07 <통찰의 시대> `(감사원)`
-* 2015.12.16 컴퓨터도움진단 Lung CAD `(아산병원 호흡기내과)`
+* `2015-05-20` 컴퓨터도움진단 `(뷰노)`
+* `2015-06-12` 뉴로인포매틱스 `(eMIT 클래스 @을지대학교 의과대학)`
+* `2015-07-07` 의료영상 빅데이터 활용 `(뷰노)`
+* `2015-07-28` **백북스** <통찰의 시대> `(대전백북스 @백북스홀)`
+* `2015-09-01` 과학문화 `(여성과학기술인회)`
+* `2015-10-03` 과학과 예술 `(지리산프로젝트 @성심원 대강당)` [[press]](http://www.hannamilbo.com/news/articleView.html?idxno=115860)
+* `2015-10-30` **서울백북스** <통찰의 시대> `(서울백북스)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-54574439)
+* `2015-11-11` 일상의 과학 `(대덕넷 이공인턴직원 연수교육 @에트리)`
+* `2015-11-25` Image Informatics `(서울아산병원 의공학 심포지움 @서울아산병원)`
+* `2015-12-02` 데이터 관리 `(정보설계 클래스 @한남대학교 문헌정보학과)`
+* `2015-12-04` <통찰의 시대> `(대덕넷 과학리더캠프 @국가과학기술인력개발원 오창본원)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=56163)
+* `2015-12-07` <통찰의 시대> `(감사원)`
+* `2015-12-16` 컴퓨터도움진단 Lung CAD `(아산병원 호흡기내과)`
 
 ###### 2016년
-* 2016.03.03 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57148) [[article]](http://joongdo.co.kr/jsp/article/article_view.jsp?pq=201603060215)
-* 2016.03.08 알파고는 어떻게 바둑을 둘까 `(UNIST)`
-* 2015.03.15 알파고는 어떻게 바둑을 둘까 `(따뜻한과학마을만들기 벽돌한장 @TBC)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
-* 2016.03.17 알파고는 어떻게 바둑을 둘까 `(수리천문학회 심포지움 @한국천문연구원)`
-* 2016.03.18 알파고와 함께한 놀라운 일주일 `(새로운 통찰을 생각하는 사람들 @에트리)`
-* 2016.03.28 알파고와 함께한 놀라운 일주일 `(국가과학기술연구회)`
-* 2016.03.31 알파고는 어떻게 바둑을 둘까 `(서울아산병원 영상의학과)`
-* 2016.04.01 알파고와 함께한 드라마틱한 일주일 `(데이터사이언스학회 @성균관대학교)`
-* 2016.04.05 알파고와 함께한 놀라운 일주일 `(벽돌한장 따뜻한과학마을E공감 @삼진정밀 대강당)` [[html]](http://samjinvalve1.cafe24.com/2013/sub1/menu5.php?idx=815&page=1&number=174&pmode=view&PHPSESSID=9cb7f5914ad7fc1b374f945e5119538d)
-* 2016.04.12 알파고는 어떻게 바둑을 두는가 `(산업통상자원부 @세종청사)`
-* 2016.04.16 **플레이어스포럼** 놀이의 천재들 `(플레이어스포럼 서울 @카우앤독)` [[aboutme]](https://www.facebook.com/groups/playwithuskorea/permalink/1179529138727050/)
+* `2016-03-03` 알파고는 어떤 바둑을 둘까 `(에트리 기습세미나)` [[slideshare]](http://www.slideshare.net/madlymissyou/ss-59007491) [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57148) [[article]](http://joongdo.co.kr/jsp/article/article_view.jsp?pq=201603060215)
+* `2016-03-08` 알파고는 어떻게 바둑을 둘까 `(UNIST)`
+* `2015-03-15` 알파고는 어떻게 바둑을 둘까 `(따뜻한과학마을만들기 벽돌한장 @TBC)` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=57365)
+* `2016-03-17` 알파고는 어떻게 바둑을 둘까 `(수리천문학회 심포지움 @한국천문연구원)`
+* `2016-03-18` 알파고와 함께한 놀라운 일주일 `(새로운 통찰을 생각하는 사람들 @에트리)`
+* `2016-03-28` 알파고와 함께한 놀라운 일주일 `(국가과학기술연구회)`
+* `2016-03-31` 알파고는 어떻게 바둑을 둘까 `(서울아산병원 영상의학과)`
+* `2016-04-01` 알파고와 함께한 드라마틱한 일주일 `(데이터사이언스학회 @성균관대학교)`
+* `2016-04-05` 알파고와 함께한 놀라운 일주일 `(벽돌한장 따뜻한과학마을E공감 @삼진정밀 대강당)` [[html]](http://samjinvalve1.cafe24.com/2013/sub1/menu5.php?idx=815&page=1&number=174&pmode=view&PHPSESSID=9cb7f5914ad7fc1b374f945e5119538d)
+* `2016-04-12` 알파고는 어떻게 바둑을 두는가 `(산업통상자원부 @세종청사)`
+* `2016-04-16` **플레이어스포럼** 놀이의 천재들 `(플레이어스포럼 서울 @카우앤독)` [[aboutme]](https://www.facebook.com/groups/playwithuskorea/permalink/1179529138727050/)
 [[postscript]](https://www.facebook.com/groups/playwithuskorea/permalink/1194518637228100/) [[photos]](https://www.facebook.com/media/set/?set=oa.1180805058599458&type=1) [[press]](http://playwithus.kr/home/sketch/2434) [[video]](https://www.youtube.com/watch?v=cHk9Yw-K9Yc)
-* 2016.04.23 알파고와 함께한 놀라운 일주일 `(IT어린이기자단 발대식 @에트리 대강당)` [[press]](http://www.etnews.com/20160424000070)
-* 2016.04.26 **백북스** <인공지능과 딥러닝> `(대전백북스 @백북스홀)`
-* 2016.05.11 알파고는 어떻게 바둑을 두는가 `(KEIT)`
-* 2016.05.17 인공지능과 기술혁신이 가져올 사회 변화 `(충북사회혁신컨퍼런스)`
-* 2016.05.20 인공지능과 의료기술의 변화 `(을지대학교 의과대학 eMIT 강좌)`
-* 2016.06.27 알파고와 함께한 놀라운 일주일 `(대전인재개발원 신입공무원 교육)`
-* 2016.06.29 알파고와 함께한 놀라운 일주일 `(APCTP 소백산천문대)`
-* 2016.06.30 알파고와 함께한 놀라운 일주일 `(연세대학교 동문회)`
-* 2016.07.02 알파고와 함께한 놀라운 일주일 `(KSSiS 대한가상수술학회 딥러닝 세션)`
-* 2016.07.21 의료영상처리 연구의 미래 인공지능 기술의 전망 `(포항가속기연구소)`
-* 2016.07.24 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
-* 2016.08.06 알파고와 함께한 놀라운 일주일 `(레드스쿨)` [[press]](http://news.donga.com/3/03/20160808/79634789/1)
-* 2016.08.07 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
-* 2016.08.08 알파고와 함께한 놀라운 일주일 `(선박해양플랜트연구소 융합교육 페스티벌)` [[notice]](http://www.kriso.re.kr/kcef-2016/?m_term_id=3)
-* 2016.09.08 알파고와 함께한 놀라운 일주일 `(KISTEP)`
-* 2016.09.27 **백북스** 시간을 정복한 남자 류비셰프 `(대전백북스)`
-* 2016.11.24 이노베이션콘서트 초청 강연 '빅히스토리 프로젝트' `(수자원공사)`
-* 2016.12.01 알파고와 함께한 놀라운 일주일 `(신촌세브란스병원)`
+* `2016-04-23` 알파고와 함께한 놀라운 일주일 `(IT어린이기자단 발대식 @에트리 대강당)` [[press]](http://www.etnews.com/20160424000070)
+* `2016-04-26` **백북스** <인공지능과 딥러닝> `(대전백북스 @백북스홀)`
+* `2016-05-11` 알파고는 어떻게 바둑을 두는가 `(KEIT)`
+* `2016-05-17` 인공지능과 기술혁신이 가져올 사회 변화 `(충북사회혁신컨퍼런스)`
+* `2016-05-20` 인공지능과 의료기술의 변화 `(을지대학교 의과대학 eMIT 강좌)`
+* `2016-06-27` 알파고와 함께한 놀라운 일주일 `(대전인재개발원 신입공무원 교육)`
+* `2016-06-29` 알파고와 함께한 놀라운 일주일 `(APCTP 소백산천문대)`
+* `2016-06-30` 알파고와 함께한 놀라운 일주일 `(연세대학교 동문회)`
+* `2016-07-02` 알파고와 함께한 놀라운 일주일 `(KSSiS 대한가상수술학회 딥러닝 세션)`
+* `2016-07-21` 의료영상처리 연구의 미래 인공지능 기술의 전망 `(포항가속기연구소)`
+* `2016-07-24` 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
+* `2016-08-06` 알파고와 함께한 놀라운 일주일 `(레드스쿨)` [[press]](http://news.donga.com/3/03/20160808/79634789/1)
+* `2016-08-07` 알파고와 함께한 놀라운 일주일 `(KAIST 영재교육원)`
+* `2016-08-08` 알파고와 함께한 놀라운 일주일 `(선박해양플랜트연구소 융합교육 페스티벌)` [[notice]](http://www.kriso.re.kr/kcef-2016/?m_term_id=3)
+* `2016-09-08` 알파고와 함께한 놀라운 일주일 `(KISTEP)`
+* `2016-09-27` **백북스** 시간을 정복한 남자 류비셰프 `(대전백북스)`
+* `2016-11-24` 이노베이션콘서트 초청 강연 '빅히스토리 프로젝트' `(수자원공사)`
+* `2016-12-01` 알파고와 함께한 놀라운 일주일 `(신촌세브란스병원)`
 
 ###### 2017년
-* 2017.02.03 빅히스토리 프로젝트 `(빅히스토리 프로젝트 대전)`
-* 2017.03.02 통찰의 시대 `(뇌공학 AOC)`
-* 2017.05.24 통찰의 시대 `(ETRI 톡서클럽)`
-* 2017.06.29 빅히스토리 프로젝트 `(ETRI 톡서클럽)`
-* 2017.08.04 알파고와 함께한 놀라운 일주일 `(국외과학연구단지 체험 @ETRI)`
-* 2017.09.12 마이티 프로젝트 `(ETRI 톡서클럽)`
-* 2017.11.07 알파고와 함께한 일주일 `(ETRI 기우회)`
+* `2017-02-03` 빅히스토리 프로젝트 `(빅히스토리 프로젝트 대전 @TBC 이노스타트업)`
+* `2017-03-02` 통찰의 시대 `(뇌공학 AOC @ETRI)`
+* `2017-05-24` 통찰의 시대 `(ETRI 톡서클럽)`
+* `2017-06-29` 빅히스토리 프로젝트 `(ETRI 톡서클럽)`
+* `2017-08-04` 알파고와 함께한 놀라운 일주일 `(국외과학연구단지 체험 @ETRI)`
+* `2017-09-12` 마이티 프로젝트 `(ETRI 톡서클럽)`
+* `2017-11-07` 알파고와 함께한 일주일 `(ETRI 기우회)`
 
 ###### 2018년
-* 2018.01.03 <생각의 기원> 번역 후기 `(ETRI 톡서클럽)`
-* 2018.01.05 마이티 프로젝트 `(빅히스토리 프로젝트 시즌2)`
-* 2018.01.12 라이프로그 `(ETRI 톡서클럽)`
-* 2018.01.24 알파고와 함께한 놀라운 일주일 `(CDE 학회 @횡성 웰리힐리 리조트)`
-* 2018.01.24 스트림스로 시작하는 강화학습 `(CDE 학회 @횡성 웰리힐리 리조트)`
-* 2018.03.09 생각의 기원과 인류의 미래 `(ETRI 새통사)`
-* 2018.04.05 생각의 기원과 인류의 미래 `(한국과학영재학교 동기모임)`
-* 2018.04.20 과학의 날 특강 <알파고와 함께한 놀라운 일주일> `(대전교육과학연구원)`
-* 2018.04.24 생각의 기원 `(백북스)`
-* 2018.04.25 생각의 기원과 교육의 미래 `(중앙교육연수원 장학사 교육연수)`
-* 2018.05.04 알파고와 함께한 놀라운 일주일 `(한밭대 현장의 이해 수업 세미나)`
-* 2018.05.16 알파고와 함께한 일주일 `(이화여대)`
-* 2018.05.17 알파고와 함께한 일주일 `(이화여대)`
-* 2018.05.18 생각의 기원 `(한국뇌연구원 청송 워크숍)`
-* 2018.06.07 **인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석** `(ETRI AOC)`
-* 2018.06.14 인공지능, 어디까지 들어봤니 `(전주 한옥마을 워크숍)`
-* 2018.06.18 4차산업혁명시대 대한민국 미래교육의 방향 `(서울시교육연수원 중등교장 자격연수)`
-* 2018.06.22 생각의 기원 `(서울시교육청 강화도 연수)`
-* 2018.06.28 인공지능, 어디까지 들어봤니 `(신탄진도서관 길 위의 인문학)`
-* 2018.07.02 생각의 기원과 교육의 미래 `(서울시교육청 중등전문직 장학사 연수)`
-* 2018.07.25 생각의 기원과 교육의 미래 `(서울시교육청 초등교감연수)`
-* 2018.07.27 **서울 백북스** 인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석 (`서울 백북스`)
-* 2018.08.03 인공지능, 어디까지 들어봤니 `(대전 교육청 국외과학단지체험관 @ETRI)`
-* 2018.08.18 인공지능 가지고 놀기 `(아티언스캠프 @대전 예술가의 집)`
-* 2018.08.22 **CDE 학회 튜토리얼** 강화학습이란 무엇인가 `(CDE학회 @제주 휘닉스 섭지코지)`
+* `2018-01-03` <생각의 기원> 번역 후기 `(ETRI 톡서클럽)`
+* `2018-01-05` 마이티 프로젝트 `(빅히스토리 프로젝트 시즌2)`
+* `2018-01-12` 라이프로그 `(ETRI 톡서클럽)`
+* `2018-01-24` **CDE 학회** 알파고와 함께한 놀라운 일주일 `(CDE 동계학술대회 @횡성 웰리힐리 리조트)`
+* `2018-01-24` **CDE 학회** 스트림스로 시작하는 강화학습 `(CDE 동계학술대회 @횡성 웰리힐리 리조트)`
+* `2018-03-09` 생각의 기원과 인류의 미래 `(ETRI 새통사)`
+* `2018-04-05` 생각의 기원과 인류의 미래 `(한국과학영재학교 동기모임)`
+* `2018-04-20` **과학의 날 특강** 알파고와 함께한 놀라운 일주일 `(대전교육과학연구원)`
+* `2018-04-24` **백북스** 생각의 기원 `(백북스)`
+* `2018-04-25` 생각의 기원과 교육의 미래 `(중앙교육연수원 장학사 교육연수)`
+* `2018-05-04` 알파고와 함께한 놀라운 일주일 `(한밭대 현장의 이해 수업 세미나)`
+* `2018-05-16` 알파고와 함께한 일주일 `(이화여대)`
+* `2018-05-17` 알파고와 함께한 일주일 `(이화여대)`
+* `2018-05-18` 생각의 기원 `(한국뇌연구원 청송 워크숍)`
+* `2018-06-07` **인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석** `(ETRI AOC)`
+* `2018-06-14` 인공지능, 어디까지 들어봤니 `(전주 한옥마을 워크숍)`
+* `2018-06-18` 4차산업혁명시대 대한민국 미래교육의 방향 `(서울시교육연수원 중등교장 자격연수)`
+* `2018-06-22` 생각의 기원 `(서울시교육청 강화도 연수)`
+* `2018-06-28` 인공지능, 어디까지 들어봤니 `(신탄진도서관 길 위의 인문학)`
+* `2018-07-02` 생각의 기원과 교육의 미래 `(서울시교육청 중등전문직 장학사 연수)`
+* `2018-07-25` 생각의 기원과 교육의 미래 `(서울시교육청 초등교감연수)`
+* `2018-07-27` **서울 백북스** 인공지능의 신경과학적 해석, 신경과학의 인공지능적 해석 (`서울 백북스`)
+* `2018-08-03` 인공지능, 어디까지 들어봤니 `(대전 교육청 국외과학단지체험관 @ETRI)`
+* `2018-08-18` 인공지능 가지고 놀기 `(아티언스캠프 @대전 예술가의 집)`
+* `2018-08-22` **CDE 학회 튜토리얼** 강화학습이란 무엇인가 `(CDE 하계학술대회 @제주 휘닉스 섭지코지)`
+* `2018-08-23` **CDE 학회** 생각의 기원 `(CDE 하계학술대회 @제주 휘닉스 섭지코지)`
+* `2018-08-31` AI 로미오와 신경과학 줄리엣 `(새통사)`
+* `2018-09-04` 강화학습이란 무엇인가 `(ETRI)`
+* `2018-09-27` 인공지능, 어디까지 들어봤니 `(대전문화재단 아티언스)`
+* `2018-09-27` 인공지능, 어디까지 들어봤니 `(대전벤처협회 @리베라호텔)`
+* `2018-10-04` 생각의 기원 `(정읍)`
+* `2018-10-05` 내 인생의 조각모음 `(옴니어스)`
+* `2018-10-15` 인공지능, 어디까지 들어봤니 `(서울여대)`
+* `2018-10-18` 미래시대, 우리들의 공부 (3h) `(교원인문고전 아카데미 @서울 프란치스코 교육회관)`
+* `2018-10-30` 인공지능, 어디까지 들어봤니 `(경희대학교 생체의공학특강)`
+* `2018-11-02` 강화학습이란 무엇인가 `(새통사)`
+* `2018-11-06` 새로운 에트리 만들기 TF 스토리 `(KAERI)`
+* `2018-11-10` 인공지능, 어디까지 들어봤니 `(성균관대 글로벌창업대학원)`
+* `2018-11-10` 인공지능, 어디까지 들어봤니 `(성균관대 기술경영학과 동문회)`
+* `2018-11-23` 인공지능, 어디까지 들어봤니 `(홍익대학교 공학교육혁신센터)`
+* `2018-12-06` 강화학습이란 무엇인가 `(이화여대)`
+* `2018-12-07` 내 인생의 조각모음 `(ETRI 신입직원교육)`
+* `2018-12-08` 빅히스토리 프로젝트 `(ESC 송년회 @대전 파스텔로)`
+* `2018-12-29` **갈다** 마이티의 과학 `(삼청동 과학책장 갈다)`
 
-
+###### 2019년
+* `2019-01-03` 강화학습이란 무엇인가 `(ETRI 바이오의료IT연구본부)`
+* `2019-01-16` 내 인생의 조각모음과 인공지능 `(오픈데이터포럼 @KAIST 창조경제혁신센터)`
+* `2019-01-23` **CDE 학회** 신경과학의 인공지능적 해석 `(CDE 동계학술대회 @평창 휘닉스파크)`
+* `2019-02-13` 인공지능, 어디까지 들어봤니 `(영주제일고 연구단지체험학습 @ETRI)`
+* `2019-02-27` 내 인생의 조각모음 `(ETRI)`
+* `2019-03-13` 신경과학의 인공지능적 해석 `(AI프렌즈 @TBC 콜라보홀)`
 
 ## 콘테스트
-* 2011.11.23 LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
-* 2012.10.31 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
-* 2013.11.29 Mendeley 활용사례 공모 이벤트: 대상 `$50`
-* 2013.03.14 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
+* `2011-11-23` LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
+* `2012-10-31` 제1회 독서동아리대회 우수사례 부문: ETRI독서모임 대상 `$1,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
+* `2013-11-29` Mendeley 활용사례 공모 이벤트: 대상 `$50`
+* `2013-03-14` 제2회 이노폴리스 아이디어 콘테스트: Creative Gardener 팀 <메디치가든> 대상 `$5,000` [[press]](http://www.hellodd.com/?md=news&mt=view&pid=41077) [[press]](http://news.donga.com/3/all/20130317/53772033/1)
 
 ## 커뮤니티
 * **백북스** [[homepage]](www.100books.kr) [[facebook]](https://www.facebook.com/groups/100booksclub/)
@@ -243,18 +268,18 @@
 * 2016 **빅히스토리 프로젝트 대전** `cofounder` [[facebook]](https://www.facebook.com/groups/BigHistoryProjectDaejeon/)
   * 불금에는 '우주 한 잔' 어때요? [[사이언스타임즈]](http://www.sciencetimes.co.kr/?news=%EB%B6%88%EA%B8%88%EC%97%90%EB%8A%94-%EC%9A%B0%EC%A3%BC-%ED%95%9C-%EC%9E%94-%EC%96%B4%EB%95%8C%EC%9A%94)
   * 불금의 별난 바람? ... '과학교재' 공부하는 사람들 [[헬로디디]](http://www.hellodd.com/?md=news&mt=view&pid=59137)
-  * `2016.06.10` [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
-  * `2016.06.17` [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
-  * `2016.06.24` [#빅히스토리 3교시](https://www.facebook.com/hashtag/빅히스토리3교시) 빛의 속도가 유한하다는 것을 어떻게 알았을까?
-  * `2016.07.01` [#빅히스토리 4교시](https://www.facebook.com/hashtag/빅히스토리4교시) 태양에서 나오는 에너지의 양을 어떻게 계산할까?
-  * `2016.07.08` [#빅히스토리 5교시](https://www.facebook.com/hashtag/빅히스토리5교시) 처음에는 수소와 헬륨뿐이었다. 다른 원소들은 언제 어떻게 생겼을까? 그것을 어떻게 알았을까?
-  * `2016.07.15` [#빅히스토리 6교시](https://www.facebook.com/hashtag/빅히스토리6교시) 별은 어떻게 태어나서 어떻게 사라지나? 내 몸을 이루는 원소는 어디에서 왔나?
-  * `2016.07.22` [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?  
-  * `2016.08.12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
-  * `2016.08.19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?    
-  * `2017.05.12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?
-  * `2017.05.26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
- 
+  * `2016-06-10` [#빅히스토리 1교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC1%EA%B5%90%EC%8B%9C) 오리엔테이션+멤버소개
+  * `2016-06-17` [#빅히스토리 2교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC2%EA%B5%90%EC%8B%9C) 우주가 팽창한다는 것을 어떻게 알았을까?
+  * `2016-06-24` [#빅히스토리 3교시](https://www.facebook.com/hashtag/빅히스토리3교시) 빛의 속도가 유한하다는 것을 어떻게 알았을까?
+  * `2016-07-01` [#빅히스토리 4교시](https://www.facebook.com/hashtag/빅히스토리4교시) 태양에서 나오는 에너지의 양을 어떻게 계산할까?
+  * `2016-07-08` [#빅히스토리 5교시](https://www.facebook.com/hashtag/빅히스토리5교시) 처음에는 수소와 헬륨뿐이었다. 다른 원소들은 언제 어떻게 생겼을까? 그것을 어떻게 알았을까?
+  * `2016-07-15` [#빅히스토리 6교시](https://www.facebook.com/hashtag/빅히스토리6교시) 별은 어떻게 태어나서 어떻게 사라지나? 내 몸을 이루는 원소는 어디에서 왔나?
+  * `2016-07-22` [#빅히스토리 7교시](https://www.facebook.com/hashtag/빅히스토리7교시) 우주 탄생 최초의 3분 동안 어떤 일이 일어났을까? 그것을 어떻게 알았을까?  
+  * `2016-08-12` [#빅히스토리 8교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC8%EA%B5%90%EC%8B%9C) 우주의 구조를 어떻게 알았을까?
+  * `2016-08-19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?    
+  * `2017-05-12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?
+  * `2017-05-26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
+
 ## 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 퍼블리publy REBOOT FORUM #1 '인공지능 시대의 미래 교육' (성수동 디웰) [[html]](http://blog.publy.co/?p=2963)
@@ -312,7 +337,7 @@
   * 2004.11 **Keith Jarrett** 라이브 (시카고 심포닉홀)
   * 2004.11 대전페스티발심포니 창단음악회 (엑스포아트홀)
   * 2004.12 노보시비리스크 국립오페라발레극장 호두까기 인형 (대전예술의전당 아트홀)
-  * 2005.01 대전시향 신년음악회: 함신익/신영옥 생상 
+  * 2005.01 대전시향 신년음악회: 함신익/신영옥 생상
   * 2005.02 대전시향 발렌타인콘서트 (대전문화예술의전당)
   * 2005.02 대전시향 야심의 젊은 두 음악인, 불멸의 작품을 연주하다: 지휘 최훈/첼로 미하이 마리카 코플란드 아팔레치아의 봄/차이코프스키 로코코 주제에 의한 변주곡 작품 33/베토벤 5번 (대전문화예술의전당)
   * 2005.03 대전시향 봄의 제전 말러 5번/브람스 대학축전서곡/엘가 위풍당당행진곡 (대전문화예술의전당)
@@ -321,7 +346,7 @@
   * 2005.04 영구 DVB 피지컬씨어터 (LG아트센터 R석 7만원)
   * 2005.04 유지로 와다 & 이주한 (EBS SPACE)
   * 2005.04 대전시향 마스터시리즈4 김정원 모차르트 피협21 차이코프스키 비창 (대전문화예술의전당)
-  * 2005.04 대전시향 챔버시리즈 (대전문화예술의전당 앙상블홀) 
+  * 2005.04 대전시향 챔버시리즈 (대전문화예술의전당 앙상블홀)
   * 2005.04 오페라 카르멘 (대전문화예술의전당 아트홀 A석 3만원)
   * 2005.05 아르코 디아볼로 연주회 (대전문화예술의전당 앙상블홀 S석 1만원)
   * 2005.05 **매튜 본 백조의 호수** (LG아트센터 S석 6만원)
@@ -332,7 +357,7 @@
   * 2005.07 대전시향 비엔나의 두 거장 모차르트와 말러 함신익 모차르트 디베르티멘트 2번/말러 교향곡 3번 (대전문화예술의전당)
   * 2005.07 뮤지컬 I LOVE YOU 남경주/정성화/최정원(충남대학교 정심화홀 S석 44,000원)
   * 2005.07 대전시향 한여름밤의 팝스콘서트 (충남대학교 정심화홀)
-  * 2005.08 대전시향 권혁주 멘델스존 바이올린 협주곡 함신익 말러 1번 (충남대학교 정심화홀) 
+  * 2005.08 대전시향 권혁주 멘델스존 바이올린 협주곡 함신익 말러 1번 (충남대학교 정심화홀)
   * 2005.08 대전시향 프리토의 열정과 젊은 거장 **손열음**의 만남 (드뷔시 클라리넷과 오케스트라를 위한 랩소디/몽키요 와팡고/파야 삼각모자/쇼팽 피협 1번/빗방울전주곡) (대전문화예술의전당)
   * 2005.09 굿보러가자 (충남대학교 정심화홀)
   * 2005.09 대전시향 거장 야노스 휘르스트의 하이든과 드보르작 하이든 96번 기적/생상 피협 1번/드보르작 5번 (대전문화예술의전당)
@@ -362,21 +387,21 @@
   * 2006.11 모차르트 탄생 250주년 기념 '모차르트 페스티벌 II' (대전문화예술의전당 앙상블홀 S석 1만원)
   * 2006.12 키예프 셰브첸코 발레단 백조의 호수 (대전문화예술의전당 아트홀 S석 3만원)
   * 2007.03 **드레스덴 필하모니 & 성십자가합창단 마태수난곡** (대전문화예술의전당 아트홀 B석 5만원)
-  * 2007.03 대전시향	
+  * 2007.03 대전시향
   * 2007.03 **MUSE** 내한공연 (잠실)
   * 2007.04 대전시향
   * 2007.05 대전시향 마에스트로 키슬러가 펼치는 말러, 그 위대한 그림자 말러 5번 (대전문화예술의전당 아트홀)
   * 2007.05 대전시향 객원지휘 로센 밀라노프 탄호이저서곡 프로코피예프 5번	(대전문화예술의전당 아트홀)
   * 2007.06 아르코 디아볼로 제5회 정기연주회 (대전문화예술의전당 앙상블홀 S석 2만원)
   * 2007.06 대전시향 구텐 탁, 베토벤 에그몬트협주곡/피협 5번/교향곡 7번 (대전문화예술의전당 아트홀)
-  * 2007.07 대전시향 에드몬 콜로메르 상임지휘자 취임기념 차이코프스키  5번 (대전문화예술의전당 A석 1만원) 
+  * 2007.07 대전시향 에드몬 콜로메르 상임지휘자 취임기념 차이코프스키  5번 (대전문화예술의전당 A석 1만원)
   * 2007.07 대전시향
   * 2007.08 난타 (ETRI가족음악회 대전문화예술의전당)
-  * 2007.09 대전시향 마스터즈시리즈8 피아니스트 **김선욱** (대전문화예술의전당 A석) 
-  * 2007.09 임해경 첼로독주회 (대전문화예술의전당 앙상블홀 A석)	
-  * 2007.10 대전시향 마스터즈시리즈9 프랑스 음색의 향연 (대전문화예술의전당 A석 1만원)	
+  * 2007.09 대전시향 마스터즈시리즈8 피아니스트 **김선욱** (대전문화예술의전당 A석)
+  * 2007.09 임해경 첼로독주회 (대전문화예술의전당 앙상블홀 A석)
+  * 2007.10 대전시향 마스터즈시리즈9 프랑스 음색의 향연 (대전문화예술의전당 A석 1만원)
   * 2007.11 대전시향 콘트라베이스, 오르간 & 교향악의 만남 모차르트 31번 파리/보테시니 콘트라협 2번/생상 3번 오르간 교향곡 (대전문화예술의전당 아트홀)
-  * 2007.12 대전시향 마스터즈시리즈11 송년음악회 (아트홀 A석 1만원)	
+  * 2007.12 대전시향 마스터즈시리즈11 송년음악회 (아트홀 A석 1만원)
   * 2008.02 조윤범의 파워클래식 브람스
   * 2008.02 조윤범의 파워클래식 모차르트
   * 2008.04 대전시향 마스터즈시리즈3 **백건우** 베토벤피협1번 말러1번
@@ -387,16 +412,16 @@
   * 2013.08 현대카드 슈퍼콘서트 **Limb Bizkit/Muse** (잠실종합운동장)
   * 2014.05 **파비오 비온디** 사계 (서울 예술의전당)
   * 2014.08 현대카드 씨티브레이크 후바스탱크/싸이/**Deftones**/Ozzy Osboune (상암월드컵경기장)
-  
+
 * 재즈바 기행
   * 2002.07 파리 Duc Des Rombards
   * 2003.12 시카고 House of Blue, Blue Chicago, Andy's Jazz Club, Blue Chicago
   * 2004.11 시카고 Blue Chicago, House of Blues, Jazz Showcase, Coyote Ugly, Blue Chicago, Buddy tiny's legend, Blue Chicago
-  * 2018.11 런던 
+  * 2018.11 런던
 
-* 영화 
+* 영화
   * 영화 별평 보관함 [[watcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
-   
+
 * 국내 문화유적 답사여행 지도 [[map]](https://drive.google.com/open?id=1gGhqOMnIu05szgdrW0vZAiNrZfo&usp=sharing)
   * 2003.04 동학사/마곡사/장곡사
   * 2003.05 선산 죽장동 오층석탑/의성 탑리 오층석탑/의성 빙산사지 오층석탑
@@ -453,12 +478,12 @@
 
 ## Gadgets
 * Computers & Phone
-  * Apple iPhone 5 (2012)
-  * Apple iMac (27-inch, Late 2012) 
+  * Apple iPhone 5 (`2012)
+  * Apple iMac (27-inch, Late `2012)
   * Apple iPhone 6s 로즈골드 (2015)
   * Apple Macbook 로즈골드 (12-inch, 2016)
   * Apple Macbook Pro (13-inch, 2018)
- 
+
 * Camera
   * Nikon Cooplix 4500 (2002)
   * DSLR Pentax istDS2 (2006)
@@ -468,7 +493,7 @@
   * Gopro Hero 4 Silver (2015)
   * Sony a7mIII (2018)
   * Gopro Hero 7 Black (2018)
-  
+
 * Audio
   * 포터블 CDP 파나소닉 510 (1996)
   * 포터블 CDP 파나소닉 780 (1999)
