@@ -83,9 +83,9 @@
 * `2014-07-31` KBS대전라디오 서재 결혼시키기 [[soundcloud]](https://soundcloud.com/madlymissyou/kbs20140731)
 
 ## 인터넷방송
-* `2016-05-18` 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
-* `2016-06-03` 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
-* `2018-02-08` 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
+* `2016-05-18` **대덕밸리라디오** 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
+* `2016-06-03` **과정남x이정원** 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
+* `2018-02-08` **대덕밸리라디오** 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
 
 ## 언론기사
 * `2012-09-06` 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
@@ -114,7 +114,7 @@
 * `2012-11-01` 연구도 1등, 독서도 1등 `대덕넷` [[html]](http://www.hellodd.com/?md=news&mt=view&pid=39713)
 
 ###### 2014년
-* `2014-03-19` '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
+* `2014-03-19` **젤리데이** '변태적' 정리에 대하여: 기록과 정리가 삶을 어떻게 단순하고도 풍성하게 만드는가 `(젤리데이 @벌집)` [[info]](https://www.facebook.com/events/648418428538591/)
 [[photos]](https://www.facebook.com/jayasalon/posts/411061075697728?pnref=story)
 * `2014-05-31` 컴퓨터도움진단 연구 `(eMIT 클래스 @을지대학교 의과대학)`
 * `2014-06-20` 바이오의료IT연구 세미나 `(에트리)`
