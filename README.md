@@ -1,15 +1,12 @@
 ### 이정원 Jeongwon Lee
 ![JeongwonLee](/jeongwon_200.jpg)
 
+  `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
   `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
-  `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
   `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)  
-  `Vimeo` [vimeo.com/madlymissyou](https://vimeo.com/madlymissyou)  
-  `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
-  `ResearchGate` [researchgate.net/profile/Jeongwon_Lee3](https://www.researchgate.net/profile/Jeongwon_Lee3)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
-
+  `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
  * [프로필](#프로필)
  * [책](#책) / [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
  * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [문화예술](#문화예술)
@@ -26,12 +23,14 @@
 * `2017-12-08` **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
 
 ## 칼럼
+
 ###### 중도일보 <백북스와 함께 읽는 책>
 * `2011-12-14` 15세기 피렌체 천재 예술가들의 이야기 `(르네상스 미술 이야기)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201112130025)
-* `2012-01-30` 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201201310078)
-* `2012-03-13` 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201203140037)
-* `2012-04-24` 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201204250038)
+* `2012-01-30` 개미의 70%는 논다 `(일하지 않는 개미)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201201310078)
+* `2012-03-13` 시간의 주인이 되는 법 `(시간의 놀라운 발견)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201203140037)
+* `2012-04-24` 패턴으로 읽는 서양철학사 `(플라톤에서 비트겐슈타인까지)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201204250038)
 * `2012-06-13` 정리만 잘해도 인생이 바뀐다 `(인생이 빛나는 정리의 마법)` [[html]](http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=`201206130038)
+`q2`
 
 ###### 대덕넷 <이정원의 문화 산책>
 * `2013-05-01` 쇼팽의 빗방울 전주곡 [[html]](http://www.hellodd.com/?md=news&mt=view&pid=41633)
