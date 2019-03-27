@@ -235,7 +235,7 @@
 * `2019-02-13` 인공지능, 어디까지 들어봤니 `(영주제일고 연구단지체험학습 @ETRI)`
 * `2019-02-27` 내 인생의 조각모음 `(ETRI)`
 * `2019-03-13` 신경과학의 인공지능적 해석 `(AI프렌즈 @TBC 콜라보홀)` [[press]](https://www.hellodd.com/?md=news&mt=view&pid=67837) [[blog]](https://aifriends.github.io/ai-friends/update/2019/03/13/10th-seminar.html)
-* `2019-03-21` 인공지능 시대의 예술 `울림과 퍼짐`
+* `2019-03-21` 인공지능 시대의 예술 `(시도교육청 예술교육 담당과장 정책워크숍 @서울 울림과퍼짐)`
 
 ## 콘테스트
 * `2011-11-23` LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
