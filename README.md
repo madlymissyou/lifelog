@@ -21,6 +21,8 @@
 
 ## 책
 * `2017-12-08` **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
+  - `2018-01-29` [[역자후기]](https://brunch.co.kr/@madlymissyou/19) 
+  - `2018-04-28` [[장동선의 뇌가 즐거워지는 과학] 왜 우리는 기사보다 댓글에 눈이 갈까](http://news.chosun.com/site/data/html_dir/2018/04/28/2018042800067.html)
 
 ## 칼럼
 
