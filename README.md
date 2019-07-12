@@ -299,7 +299,7 @@
   * `2016-08-19` [#빅히스토리 9교시](https://www.facebook.com/hashtag/%EB%B9%85%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC9%EA%B5%90%EC%8B%9C?source=feed_text&story_id=1292513167440373) 성간 공간에는 어떤 분자들이 있을까? 그것을 어떻게 알았을까?    
   * `2017-05-12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?
   * `2017-05-26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
-
+* 2019 **AI 프렌즈** [blog](https://aifrenz.github.io/)
 ## 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 퍼블리publy REBOOT FORUM #1 '인공지능 시대의 미래 교육' (성수동 디웰) [[html]](http://blog.publy.co/?p=2963)
