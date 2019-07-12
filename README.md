@@ -307,7 +307,10 @@
 * 2016 에트리 바이오부 워크숍 기획 (부여 롯데리조트)
 
 ## 문화예술
-* 문화예술공연
+* 전시
+  * `2018.08` 대전비엔날레 BIO전 (대전시립미술관)
+  * `2018.09` 대전비엔날레 BIO전 (대전시립미술관)
+* 공연
   * `1997.11` 난타 (동숭아트센터)
   * `1999.01` **미선이** 라이브 (대학로 서울째즈아카데미)
   * `1999.05` **시크릿가든** 내한공연 (예술의전당)
@@ -433,6 +436,7 @@
   * `2014.05` **파비오 비온디** 사계 (서울 예술의전당)
   * `2014.08` 현대카드 씨티브레이크 후바스탱크/싸이/**Deftones**/Ozzy Osboune (상암월드컵경기장)
   * ...
+  * `2018.06.25` **고등래퍼** 슈퍼루키: 좋은콘서트#1 (대전 무역전시관)
   * `2018.12.23` **라이온 킹** 인터내셔널 투어 (대구 계명아트센터)
   * `2019.03.14` 함인아 피아노 리사이틀, 바흐 BWV 992, Arvo Part, George Rochberg, 베토벤 Hammerklavier (대전예술의전당 앙상블홀)
   * `2019.03.16` **구스타보 두다멜 & 유자왕 & LA PHIL** (서울 예술의전당 콘서트홀)
@@ -442,7 +446,8 @@
   * `2002.07` 파리 Duc Des Rombards
   * `2003.12` 시카고 House of Blue, Blue Chicago, Andy's Jazz Club, Blue Chicago
   * `2004.11` 시카고 Blue Chicago, House of Blues, Jazz Showcase, Coyote Ugly, Blue Chicago, Buddy tiny's legend, Blue Chicago
-  * `2018.11` 런던
+  * `2018.11` 런던 Ronnie Scott's Jazz Club, Pizza Express Live Soho, Pizza Express Live
+  * `2019.02` 하와이 Bluenote Hawaii
 
 * 영화
   * 영화 별평 보관함 [[watcha]](https://watcha.net/v2/users/VphF584ayg1m/movies)
@@ -500,6 +505,8 @@
   * `2013.08` 고성 상족암군립공원
   * `2014.09` 부여박물관
   * `2014.10` 마곡사
+  * ...
+  * `2018.06` 강화 고려궁지 
 
 ## Gadgets
 * Computers & Phone
