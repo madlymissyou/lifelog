@@ -525,6 +525,6 @@
   * 블루투스 이어폰 Boss SoundSport `(2016)`
   * 카카오 미니 `(2017)`
   * 블루투스 이어폰 Apple Airpod `(2018)`
-
+  * 블루투스 이어폰 Apple Airpod 2`(2019)`
 
 [[back to home]](#이정원-jeongwon-lee)
