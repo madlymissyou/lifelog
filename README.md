@@ -72,7 +72,7 @@
 * `2017-03-16` 잠시 꺼두셔도 좋습니다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1255785)
 * `2017-03-30` 건축가로서의 명성을 질투한 화가의 분투 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1257757)
 
-###### 패스트캠퍼스 <COMER> 1호
+###### 패스트캠퍼스 매거진 COMER 1호
 * `2019-05-01` **인간 지성의 최후의 보루** [[blog]](https://brunch.co.kr/@madlymissyou/23)[[html]](https://www.fastcampus.co.kr/data_mag_comer/)
 
 ## TV
@@ -90,6 +90,7 @@
 * `2016-05-18` 대덕밸리라디오 1주년 특집 50회 [[youtube]](https://www.youtube.com/watch?v=wL1xEIooySo)
 * `2016-06-03` 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 * `2018-02-08` 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
+* `2019-05-29` 대덕밸리라디오 4주년 특집: 과학동네 소통 어벤져스가  [[youtube]](https://www.youtube.com/watch?v=cVFOK70Qb3I)
 
 ## 언론기사
 * `2012-09-06` 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
@@ -240,6 +241,19 @@
 * `2019-02-27` 내 인생의 조각모음 `(ETRI)`
 * `2019-03-13` 신경과학의 인공지능적 해석 `(AI프렌즈 @TBC 콜라보홀)` [[press]](https://www.hellodd.com/?md=news&mt=view&pid=67837) [[blog]](https://aifriends.github.io/ai-friends/update/2019/03/13/10th-seminar.html)
 * `2019-03-21` 인공지능 시대의 예술 `(시도교육청 예술교육 담당과장 정책워크숍 @서울 울림과퍼짐)`
+* `2019-04-18` 내 인생의 조각모음: 정리의 기술 `(ETRI 신입직원교육)`
+* `2019-04-20` 알파고 이후의 인공지능 `(대한민국 과학축제 @마이크임팩트)` [[html]](http://www.koreasciencefestival.com/main/park3.php)
+* `2019-04-25` 알파고 이후의 인공지능 `(KAERI 60주년 심포지움 @정읍)`
+* `2019-05-02` 인공지능 시대의 예술 `(전국교육지원청 교육장 공동워크숍 @울산)`
+* `2019-05-15` 알파고 이후의 인공지능 `(성균관대 수원캠퍼스 글로벌창업대학원 G-AEP)`
+* `2019-05-17` 알파고 이후의 인공지능 `(하기초등학교 5학년)`
+* `2019-05-22` 오메가 프로젝트 `(ETRI 톡서클럽)`
+* `2019-05-29` 공동체와 함께하는 과학공부 `(대전 교육과학연구원)`
+* `2019-06-13` 알파고 이후의 인공지능 `(국립국제교육원 @경희대학교 국제교육원)`
+* `2019-06-15` 인공지능 시대의 예술 `(홍익대학교 대학로캠퍼스 커뮤니케이션디자인학과 HiCD 포럼)`
+* `2019-06-17` 호모 사피엔스와 AI `(한예종)`
+* `2019-07-06` 호모 AI 사피엔스 `(AI Festival @KAIST 문지캠퍼스)`
+
 
 ## 콘테스트
 * `2011-11-23` LSI 코오롱 KAIST 아이디어 공모전: LSI Dreamer Prize `$1,000`
