@@ -72,6 +72,9 @@
 * `2017-03-16` 잠시 꺼두셔도 좋습니다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1255785)
 * `2017-03-30` 건축가로서의 명성을 질투한 화가의 분투 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1257757)
 
+###### 패스트캠퍼스 <COMER> 1호
+* `2019-05-01` **인간 지성의 최후의 보루** [[blog]](https://brunch.co.kr/@madlymissyou/23)[[html]](https://www.fastcampus.co.kr/data_mag_comer/)
+
 ## TV
 * `2016-03-11` **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
 
