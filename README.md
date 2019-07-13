@@ -23,6 +23,7 @@
 * `2017-12-08` **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
 [[역자후기]](https://brunch.co.kr/@madlymissyou/19) 
 [[장동선의 뇌가 즐거워지는 과학]](http://news.chosun.com/site/data/html_dir/2018/04/28/2018042800067.html)
+  * 1쇄 출간소식 [[페이스북]](https://www.facebook.com/photo.php?fbid=1627331573994265)
 * `2019-07-19` **강화학습 입문 파이썬 예제와 함께하는** `(라비찬디란 지음/김승현,김태우,이정원,이주행 옮김/홍릉과학출판사)`
 
 ## 칼럼
