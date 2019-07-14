@@ -304,6 +304,7 @@
   * `2017-05-12` [#빅히스토리 42교시](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1649152055109814) 소리와 영상은 아날로그 신호인데 왜 TV와 오디오가 디지털 방식으로 바뀌었을까?
   * `2017-05-26` [#종강파티@사누스](https://www.facebook.com/groups/BigHistoryProjectDaejeon/permalink/1671028666255486)
 * 2019 **AI 프렌즈** [[blog]](https://aifrenz.github.io/)
+
 ## 액티비티
 * 2015 아태이론물리센터 '과학과 예술 융합 워크숍' (소백산천문대)
 * 2016 퍼블리publy REBOOT FORUM #1 '인공지능 시대의 미래 교육' (성수동 디웰) [[html]](http://blog.publy.co/?p=2963)
@@ -447,7 +448,13 @@
   * `2017.05.30` 대전시향 난만 스토리를 만나다 그리그 피아노협주곡 (대전예술의전당 아트홀)
   * `2017.07.13` 재즈 양왕열 트리오 (Yellow Taxi)
   * `2018.06.25` **고등래퍼** 슈퍼루키: 좋은콘서트#1 (대전 무역전시관)
+  * `2018.11.28` Lucky Peterson (Ronnie Scott's Jazz Club, London)
+  * `2018.11.29` **Electric Swing Circus Live** (Pizza Express Live Soho, London)
+  * `2018.11.30` Jools Holland and his Rhythm & Blues Orchestra (Royal Abert Hall, London)
+  * `2018.12.01` Ronnie Scott's Jazz Club (London)
+  * `2018.12.02` Pizza Express Live Holborn (London)
   * `2018.12.23` **라이온 킹** 인터내셔널 투어 (대구 계명아트센터)
+  * `2019.02.01` **바네사 윌리암스** (Blue Note Hawaii, Hawaii)
   * `2019.03.14` 함인아 피아노 리사이틀, 바흐 BWV 992, Arvo Part, George Rochberg, 베토벤 Hammerklavier (대전예술의전당 앙상블홀)
   * `2019.03.01` 재즈 레인보우선셋 이지현 (Yellow Taxi)
   * `2019.03.21` 첼리스트 양성원 트리오 (서울 울림과퍼짐)
