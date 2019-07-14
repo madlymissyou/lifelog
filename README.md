@@ -448,6 +448,8 @@
   * `2017.05.30` 대전시향 난만 스토리를 만나다 그리그 피아노협주곡 (대전예술의전당 아트홀)
   * `2017.07.13` 재즈 양왕열 트리오 (Yellow Taxi)
   * `2018.06.25` **고등래퍼** 슈퍼루키: 좋은콘서트#1 (대전 무역전시관)
+  * `2018.11.16` 대전재즈페스티벌 day1: 서라미 (ft. 한현창&루빈) / 이정식 드림재즈밴드 / 박주원 밴드 (대전 예술가의집)
+  * `2018.11.17` 대전재즈페스티벌 day2: Jawss 쿼르텟 / 찰리정 밴드 / Manuel Weyand Quartet (대전 예술가의집)
   * `2018.11.28` Lucky Peterson (Ronnie Scott's Jazz Club, London)
   * `2018.11.29` **Electric Swing Circus Live** (Pizza Express Live Soho, London)
   * `2018.11.30` Jools Holland and his Rhythm & Blues Orchestra (Royal Abert Hall, London)
