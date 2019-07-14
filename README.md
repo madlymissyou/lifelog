@@ -411,8 +411,10 @@
   * `2006.08` **정명훈** 초청 ETRI가족음악회 베토벤 5번/6번 (대전문화예술의전당)
   * `2006.08` **메탈리카** 내한공연 and TOOL (잠실종합운동장주경기장 A석 8만원)
   * `2006.10` 금난새 유라시안필과 함께하는 삼성전자 가족음악회 (충남대학교 정심화홀)
-  * `2006.11` Chicago symphony orchestra Pierre Boulez, condector (Symphony Center)
   * `2006.11` 모차르트 탄생 250주년 기념 '모차르트 페스티벌 II' (대전문화예술의전당 앙상블홀 S석 1만원)
+  * `2006.11` Chicago symphony orchestra Pierre Boulez, condector (Symphony Center)
+  * ... Chicago ...
+  * `2006.11.27` Blue Chicago
   * `2006.12` 키예프 셰브첸코 발레단 백조의 호수 (대전문화예술의전당 아트홀 S석 3만원)
   * `2007.03` **드레스덴 필하모니 & 성십자가합창단 마태수난곡** (대전문화예술의전당 아트홀 B석 5만원)
   * `2007.03` 대전시향
