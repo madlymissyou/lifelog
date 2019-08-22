@@ -61,6 +61,7 @@
 
 ###### 알파고
 * `2016-03-08` **알파고, 첫수는 대부분 '화점'… 돌 던지는 예법도 안다** `(조선일보 A2면)` [[html]](http://news.chosun.com/site/data/html_dir/2016/03/08/2016030800390.html)
+* `2016-03-08` 조선비즈는 세기의 대결을 각 분야 7명의 전문가와 함께 봅니다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/08/2016030800154.html)
 * `2016-03-09` [1국 관전평] 우리가 실수라 불러도 알파고로선 판단일 수 있다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/09/2016030903417.html)
 * `2016-03-10` [2국 관전평] 알파고 가치망 훌륭... 이유도 모르고 지게 만든다 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/10/2016031003069.html)
 * `2016-03-12` [3국 관전평] 스스로 패 만들 수 있는 알파고... 약점 찾기 어려운 수준 `조선Biz` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/12/2016031201675.html?sukbo)
