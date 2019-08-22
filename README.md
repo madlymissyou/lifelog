@@ -68,6 +68,9 @@
 * `2016-03-13` [4국 관전평] 이세돌, 알파고 학습한듯... 마음 비운 것도 한몫 `(조선Biz)` [[html]](http://biz.chosun.com/site/data/html_dir/2016/03/13/2016031301769.html)
 * `2016-04-02` **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.chosun.com/site/data/html_dir/2016/04/01/2016040101422.html) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
+##### 알파고 이후
+* `2018-05-10` 알파고의 아버지 허사비스, 길 찾기 인공지능 개발 `(연합뉴스)`  [[html]](https://www.yna.co.kr/view/AKR20180509181300017)
+
 ###### 대전일보 <이정원의 문화산책>
 * `2017-01-06` 호기심도 학습된다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1246553)
 * `2017-01-19` 그때는 맞고 지금은 틀리다 [[html]](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1248366)
