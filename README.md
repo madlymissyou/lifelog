@@ -85,7 +85,7 @@
 * `2019-05-01` **인간 지성의 최후의 보루** [[blog]](https://brunch.co.kr/@madlymissyou/23)[[html]](https://www.fastcampus.co.kr/data_mag_comer/)
 
 ## TV
-* `2016-03-11` **KBS스페셜** '인공지능, 인간을 이기다' [[video]](http://www.dailymotion.com/video/x3x79qq)
+* `2016-03-11` **KBS스페셜** '인공지능, 인간을 이기다'
 
 ## 라디오
 * `2014-04-03` KBS대전라디오 인생이 빛나는 마법의 정리 [[soundcloud]](https://soundcloud.com/madlymissyou/20140403-1)
