@@ -137,7 +137,7 @@
 * `2014-10-27` 대전+예술+과학, 뻔하지 않은 FUN함을 논하다 `(대전문화재단 막월문화포럼)` [[press]](http://www.djenews.co.kr/news/articleView.html?idxno=16938)
 * `2014-11-26` 인생을 간결하고 풍요롭게 만드는 정리법 `(@지금러닝센터)`
 
-###### 2015년
+#### 2015년
 * `2015-04-07` <통찰의 시대> `(새로운 통찰을 생각하는 사람들 @에트리)`
 * `2015-05-16` **플레이어스포럼** 이 아빠가 노는 법 `(플레이어스포럼 대전 @앨리먼트랩)` [[video]](https://www.youtube.com/watch?v=fxgSU7dOoiQ) [[press]](http://playwithus.kr/home/sketch/658)
 [[photo]](https://www.facebook.com/permalink.php?story_fbid=1476930332632114&id=1401591210166027) [[video]](https://www.youtube.com/watch?v=4QEgCvVpIqk)
@@ -284,7 +284,7 @@
 * `2019-11-15` 대덕 커뮤니티 활동 `(경기문화재단 평화예술대장정 @대전 디딤돌플라자)`
 * `2019-11-15` 사피엔스와 AI `(한국세라믹학회 @코엑스)`
 * `2019-11-23` 사피엔스와 AI `(커먼즈필드 대전)`
-* `2019-12-12` 사피엔스와 AI `(서대문자연사박물관)`
+* `2019-12-12` 사피엔스와 AI `(서대문자연사박물관)` [[info]](https://namu.sdm.go.kr/site/main/archive/post/12%EC%9B%94-%EA%B3%BC%ED%95%99%EA%B0%95%EC%97%B0-4%EC%B0%A8%EC%82%B0%EC%97%85%ED%98%81%EB%AA%85%EA%B3%BC-%EB%AF%B8%EB%9E%98%EC%82%AC%ED%9A%8C)
 * `2019-12-13` **트레바리 클럽 '내 인생의 조각모음' 2회차** `(트레바리 @강남아지트)` [[info]](https://trevari.co.kr/meetings/show?clubID=bbcfd9a0-44e4-40dc-aecf-a56e95098261&order=2)
 * `2019-12-18` **트레바리 이벤트** '내 인생의 조각모음' `(트레바리 @강남아지트)` [[info]](https://trevari.co.kr/events/show?eventID=852cc43e-6eb3-4708-9dad-7d59184e6ee7)
 
