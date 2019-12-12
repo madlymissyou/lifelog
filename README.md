@@ -622,6 +622,7 @@
   * Apple iPhone 6s 로즈골드 `(2015)`
   * Apple Macbook 로즈골드 `(12-inch, 2016)`
   * Apple Macbook Pro `(13-inch, 2018)`
+  * Apple iPhone 11pro 미드나잇 그린 `(256GB, 2019)`
 
 * Camera
   * Nikon Cooplix 4500 `(2002)`
