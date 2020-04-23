@@ -616,15 +616,18 @@
   * `2018.06` 강화 고려궁지 
 
 ## Gadgets
-* Computers & Phone
+* Phones
   * Apple iPhone 5 `(2012)`
-  * Apple iMac `(27-inch, Late 2012)`
   * Apple iPhone 6s 로즈골드 `(2015)`
+  * Apple iPhone 11pro 미드나잇 그린 `(256GB, 2019)`
+  
+* Computers
+  * Apple iMac `(27-inch, Late 2012)`   
   * Apple Macbook 로즈골드 `(12-inch, 2016)`
   * Apple Macbook Pro `(13-inch, 2018)`
-  * Apple iPhone 11pro 미드나잇 그린 `(256GB, 2019)`
+  * Apple iMac `Retina 5K, 27-inch, 2019)`
 
-* Camera
+* Cameras
   * Nikon Cooplix 4500 `(2002)`
   * DSLR Pentax istDS2 `(2006)`
   * DSLR Pentax K20D `(2008)`
