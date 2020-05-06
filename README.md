@@ -1,5 +1,5 @@
 ### 이정원 Jeongwon Lee
-![JeongwonLee](/jeongwon.jpeg)
+![JeongwonLee](/photo-jeongwon.jpeg)
 
   `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
