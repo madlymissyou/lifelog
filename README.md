@@ -101,6 +101,8 @@
 * `2016-06-03` 과정남x이정원 정부출연연구소에서 일 한다는 것 [[podcast]](https://www.facebook.com/STPreaders/posts/361269877330227)
 * `2018-02-08` 대덕밸리라디오 120회 [[facebook live]](https://www.facebook.com/ddssradio/videos/1561188720655316) [[youtube]](https://www.youtube.com/watch?v=JzTiJWKTRIM)
 * `2019-05-29` 대덕밸리라디오 4주년 특집: 과학동네 소통 어벤져스가 떴다 [[youtube]](https://www.youtube.com/watch?v=cVFOK70Qb3I)
+* `2020-02-13` 이근영살롱 관계의 탄생 '유쾌한 파트너쉽'(이정원,유용균,천홍석,안재열,이근영) [[youtube]](https://www.youtube.com/playlist?list=PLuxIfs2HmO9lz6BJF3dB916RA7Hr5Xcfe)
+
 
 ## 언론기사
 * `2012-09-06` 대덕의 젊은 과학자 `대전일보` [[pdf]](https://www.dropbox.com/s/okey9dutfogyh4b/%5B2012.09.06%5D%20%EB%8C%80%EB%8D%95%EC%9D%98%20%EC%A0%8A%EC%9D%80%20%EA%B3%BC%ED%95%99%EC%9E%90%2C%20%EC%9D%B4%EC%A0%95%EC%9B%90%2C%20%EB%8C%80%EC%A0%84%EC%9D%BC%EB%B3%B4%2012%EB%A9%B4%20%20-%20%EC%9D%B4%EC%A0%95%EC%9B%90.pdf?dl=0)
