@@ -29,6 +29,7 @@
   * 3쇄 [[페이스북]](https://www.facebook.com/photo.php?fbid=1786287638098657)
   * 4쇄 [[페이스북]](https://www.facebook.com/photo.php?fbid=2181707175223366)
 * `2019-07-19` **파이썬 예제와 함께하는 강화학습 입문** `(라비찬디란 지음/김승현,김태우,이정원,이주행 옮김/홍릉과학출판사)`
+  * [[교보문고 ]](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156006855&orderClick=&Kc=)
 
 ## 칼럼
 
