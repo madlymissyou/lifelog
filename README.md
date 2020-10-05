@@ -20,7 +20,7 @@
 소니와 고프로 카메라로 순간을 기록하고, 3P바인더에 일상을 남깁니다.
 시스템과 팀워크를 중요하게 생각하고, 습관과 절차 자동화에 관심이 많습니다.
 
-## 책
+## 번역서
 * `2017-12-08` **생각의 기원** `(마이클 토마셀로 지음/이정원 옮김/이데아)` [[알라딘]](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125714051)
 [[역자후기]](https://brunch.co.kr/@madlymissyou/19) 
 [[장동선의 뇌가 즐거워지는 과학]](http://news.chosun.com/site/data/html_dir/2018/04/28/2018042800067.html)
