@@ -8,14 +8,17 @@
   `SlideShare` [slideshare.net/madlymissyou](http://www.slideshare.net/madlymissyou)  
   `Twitter` [twitter.com/madlymissyou](https://twitter.com/madlymissyou)  
   `LinkedIn` [linkedin.com/in/madlymissyou](https://www.linkedin.com/in/madlymissyou)  
+  
+  ![Logo](/MF7_a2-01.jpg)
+
+---
+
  * [프로필](#프로필)
  * [책](#책) / [칼럼](#칼럼) /  [TV](#tv) / [언론기사](#언론기사) / [강연](#강연) / [라디오](#라디오) / [콘테스트](#콘테스트)
  * [커뮤니티](#커뮤니티) / [액티비티](#액티비티) / [문화예술](#문화예술)
  * [Gadgets](#gadgets)
 
 ---
-
-![Logo](/MF7_a2-01.jpg)
 
 ## 프로필
 
