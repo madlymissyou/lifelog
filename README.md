@@ -113,6 +113,7 @@
 * `2014-04-08` 대덕 르네상스를 위해 메디치 가든을 꿈꾸다 `ETRI톡톡` [[pdf]](https://www.dropbox.com/s/wr4n04eb09q4ssn/ETRI%20%ED%86%A1%ED%86%A168%ED%98%B8.pdf?dl=0)
 * `2016-05-03` 아이와 ‘놀아주지’ 말고, 같이 ‘놀아보세요’ `한겨레신문` [[html]](http://www.hani.co.kr/arti/society/schooling/742231.html)
 * `2018-10-11` 삶을 풍요롭게 만드는 정리 기술, 세 가지만 기억하세요 `옴니어스 블로그` [[html]](https://brunch.co.kr/@omniousofficial/16)
+* `2020-01-28` AI 시대, 사람과 커뮤니티가 해답 `젠미디어` [[html]](http://www.genmedia.co.kr/news/articleView.html?idxno=13175)
 
 ## 강연
 #### 2012 이전
