@@ -71,7 +71,7 @@
 * `2016-04-02` **첫 수만 167억가지, 꾀를 부린 알파고** `(조선일보 IF D4통판)`  [[html]](http://news.chosun.com/site/data/html_dir/2016/04/01/2016040101422.html) [[blog]](https://brunch.co.kr/@madlymissyou/11) [[pdf]](alphago-chosun.pdf)
 
 ###### 알파고 이후
-* `2017-10-19` 알파고 제로, AI 창의성 확인... 인간 한계 분야에 적용 가능 `(연합뉴스)` [[html]]https://www.yna.co.kr/view/AKR20171018151400017)
+* `2017-10-19` 알파고 제로, AI 창의성 확인... 인간 한계 분야에 적용 가능 `(연합뉴스)` [[html]](https://www.yna.co.kr/view/AKR20171018151400017)
 * `2018-05-10` 알파고의 아버지 허사비스, 길 찾기 인공지능 개발 `(연합뉴스)` [[html]](https://www.yna.co.kr/view/AKR20180509181300017)
 
 ###### 대전일보 <이정원의 문화산책>
