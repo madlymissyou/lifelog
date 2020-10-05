@@ -1,7 +1,7 @@
 
 ![JeongwonLee](/photo-jeongwon.jpeg)
 
-## 이정원 LEE Jeongwon
+## 이정원 LEE Jeongwon (a.k.a. MF7)
   `Blog` [brunch.co.kr/@madlymissyou](https://brunch.co.kr/@madlymissyou)  
   `Facebook` [facebook.com/madlymissyou](https://www.facebook.com/madlymissyou)   
   `Instagram` [instagram.com/jeongwon.madlymissyou](https://www.instagram.com/jeongwon.madlymissyou/)  
